@@ -6,6 +6,8 @@ An English, rotatable 3D research map and a four-minute narrated explanation.
 Authors: **Khamit Kadyrbekov and Daniyal Kadirbekov**.
 Snapshot: 16 September 2026. AI assistance is disclosed in the source notes.
 
+[Watch the English explainer on YouTube](https://youtu.be/Xmxrv8oOIls) (4:02, English subtitles).
+
 The map contains 356 nodes and 532 relationships. Green means internally checked
 within the stated scope, including conditional lemmas and identified limitations.
 Unfilled nodes are open obligations. This is not a formally verified proof graph;
