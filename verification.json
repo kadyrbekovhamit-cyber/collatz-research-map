@@ -1,0 +1,46 @@
+{
+  "time": "2026-09-16T18:04:12.990568+05:00",
+  "movie_sha256": "a9dda3871b1956c3e0d05486984be6dae3e8ac34132a7c1da17facdea98cd74c",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "24/1",
+        "duration": "241.791667"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "241.793333"
+      },
+      {
+        "codec_name": "mov_text",
+        "codec_type": "subtitle",
+        "r_frame_rate": "0/0",
+        "duration": "240.303000"
+      }
+    ],
+    "format": {
+      "duration": "241.793333",
+      "size": "4959490"
+    }
+  },
+  "full_decode_errors": 0,
+  "decode_verified_by_root": true,
+  "timed_words": 510,
+  "caption_pages": 67,
+  "script_matches_timing_words": true,
+  "timing_error_limit_ms": 20.833333333333332,
+  "graph_nodes": 356,
+  "graph_edges": 532,
+  "source_states_and_connections_preserved": true,
+  "private_absolute_paths": 0,
+  "audio_playback": false,
+  "visual_review": "All nine base scenes and selected captioned output frames inspected by the root assistant."
+}

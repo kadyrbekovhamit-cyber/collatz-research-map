@@ -1,0 +1,267 @@
+1
+00:00:00,435 --> 00:00:02,213
+Choose any positive whole number.
+
+2
+00:00:03,104 --> 00:00:05,088
+If it is even, divide by two.
+
+3
+00:00:05,978 --> 00:00:08,774
+If it is odd, multiply by three and add one.
+
+4
+00:00:09,663 --> 00:00:10,333
+Repeat.
+
+5
+00:00:11,222 --> 00:00:13,774
+Starting at six, the path reaches one.
+
+6
+00:00:14,663 --> 00:00:18,581
+The Collatz conjecture says this happens for every positive starting number.
+
+7
+00:00:19,470 --> 00:00:20,462
+A simple rule.
+
+8
+00:00:21,351 --> 00:00:22,614
+A universal claim.
+
+9
+00:00:24,560 --> 00:00:26,660
+A number can rise before it falls.
+
+10
+00:00:27,551 --> 00:00:31,610
+Checking a huge collection of starts still leaves infinitely many unchecked.
+
+11
+00:00:32,500 --> 00:00:36,971
+A proof must exclude every alternative: an endless trajectory that escapes to
+
+12
+00:00:36,984 --> 00:00:40,579
+infinity, and a cycle other than four, two, one.
+
+13
+00:00:41,469 --> 00:00:44,613
+A convincing pattern is not yet a universal argument.
+
+14
+00:00:46,518 --> 00:00:47,936
+Why spend effort on this?
+
+15
+00:00:48,826 --> 00:00:53,234
+Collatz tests how much we understand about deterministic arithmetic dynamics:
+
+16
+00:00:53,440 --> 00:00:56,339
+exact rules with complicated long term behavior.
+
+17
+00:00:57,229 --> 00:01:00,991
+Progress connects number theory, probability, and the study of when
+
+18
+00:01:01,004 --> 00:01:02,280
+algorithms terminate.
+
+19
+00:01:03,169 --> 00:01:05,888
+Its value is in understanding and new methods.
+
+20
+00:01:06,777 --> 00:01:09,625
+A practical payoff cannot be promised in advance.
+
+21
+00:01:11,560 --> 00:01:14,872
+The problem is traditionally associated with Lothar Collatz.
+
+22
+00:01:15,762 --> 00:01:19,757
+In the nineteen seventies, Riho Terras and, independently, C.
+
+23
+00:01:19,770 --> 00:01:20,041
+J.
+
+24
+00:01:20,054 --> 00:01:24,023
+Everett proved that almost every start eventually falls below itself, in
+
+25
+00:01:24,036 --> 00:01:25,041
+natural density.
+
+26
+00:01:25,930 --> 00:01:30,144
+Daniel Bernstein and Jeffrey Lagarias developed a precise two adic coding of
+
+27
+00:01:30,157 --> 00:01:31,059
+the dynamics.
+
+28
+00:01:31,948 --> 00:01:35,170
+These are different advances toward understanding the same problem.
+
+29
+00:01:37,102 --> 00:01:40,980
+Terence Tao made a major advance in twenty nineteen, published in twenty
+
+30
+00:01:40,993 --> 00:01:41,779
+twenty two.
+
+31
+00:01:42,670 --> 00:01:45,930
+Choose any bound that tends to infinity, however slowly.
+
+32
+00:01:46,820 --> 00:01:51,240
+Almost every orbit eventually goes below that bound, in logarithmic density.
+
+33
+00:01:52,129 --> 00:01:54,577
+This is much stronger control of orbit minima.
+
+34
+00:01:55,466 --> 00:01:57,941
+But it does not say that every orbit reaches one.
+
+35
+00:01:58,830 --> 00:02:01,678
+The exceptional starts remain the central difficulty.
+
+36
+00:02:03,602 --> 00:02:07,648
+Our contribution is an evolving research map and a collection of internally
+
+37
+00:02:07,661 --> 00:02:08,756
+reviewed arguments.
+
+38
+00:02:09,647 --> 00:02:13,513
+The current snapshot has three hundred fifty six nodes and five hundred
+
+39
+00:02:13,526 --> 00:02:15,072
+thirty two relationships.
+
+40
+00:02:15,961 --> 00:02:18,539
+Green means checked within the stated assumptions.
+
+41
+00:02:19,428 --> 00:02:21,631
+Unfilled nodes mark open obligations.
+
+42
+00:02:22,521 --> 00:02:25,820
+The count of green nodes measures neither the percentage solved nor the
+
+43
+00:02:25,832 --> 00:02:27,250
+likelihood of success.
+
+44
+00:02:28,139 --> 00:02:31,335
+External review and novelty remain separate questions.
+
+45
+00:02:33,268 --> 00:02:37,263
+In one restricted family, recent work separates a difficult denominator
+
+46
+00:02:37,276 --> 00:02:42,121
+estimate into two sources: deep divisibility and large multiplicative orders.
+
+47
+00:02:43,012 --> 00:02:46,930
+A further reduction compresses a first coefficient certificate to degree
+
+48
+00:02:46,942 --> 00:02:51,015
+below four d, independent of the full matrix length, under stated
+
+49
+00:02:51,027 --> 00:02:51,904
+assumptions.
+
+50
+00:02:52,793 --> 00:02:56,105
+The needed bounds for the actual coefficients are still missing.
+
+51
+00:02:56,994 --> 00:03:01,027
+Even closing this branch would not settle arbitrary Collatz trajectories.
+
+52
+00:03:02,935 --> 00:03:07,355
+This map and explanation are by Khamit Kadyrbekov and Daniyal Kadirbekov,
+
+53
+00:03:07,600 --> 00:03:11,762
+with artificial intelligence assistance for exploration, drafting, and
+
+54
+00:03:11,775 --> 00:03:12,845
+internal checking.
+
+55
+00:03:13,735 --> 00:03:17,988
+Our workflow separates arithmetic derivation, structural reformulation,
+
+56
+00:03:18,143 --> 00:03:20,836
+critical review, and connection to the full goal.
+
+57
+00:03:21,725 --> 00:03:24,895
+Earlier mathematicians are credited for their published work.
+
+58
+00:03:25,784 --> 00:03:28,027
+They are not collaborators on this project.
+
+59
+00:03:28,916 --> 00:03:31,867
+Responsibility for the claims remains with the authors.
+
+60
+00:03:33,768 --> 00:03:37,402
+One route to a full proof is to show that every odd start greater than one
+
+61
+00:03:37,415 --> 00:03:39,232
+eventually falls below itself.
+
+62
+00:03:40,123 --> 00:03:42,649
+Strong induction would then finish the argument.
+
+63
+00:03:43,538 --> 00:03:46,038
+We have not established that universal descent.
+
+64
+00:03:46,927 --> 00:03:50,084
+There is no defensible completion date or percentage remaining.
+
+65
+00:03:50,973 --> 00:03:55,432
+Explore the map, inspect the assumptions, challenge a step, or help prove a
+
+66
+00:03:55,445 --> 00:03:57,133
+clearly stated missing lemma.
+
+67
+00:03:58,022 --> 00:04:00,303
+That is how this project can move forward.
