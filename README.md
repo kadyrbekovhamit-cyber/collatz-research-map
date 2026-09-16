@@ -8,6 +8,8 @@ Snapshot: 16 September 2026. AI assistance is disclosed in the source notes.
 
 [Watch the English explainer on YouTube](https://youtu.be/Xmxrv8oOIls) (4:02, English subtitles).
 
+[Archived release on Zenodo](https://doi.org/10.5281/zenodo.22801404) · [Hugging Face report and media](https://huggingface.co/datasets/XamitK/gero-research-evidence-2026-09/blob/main/collatz-research-map.md).
+
 The map contains 356 nodes and 532 relationships. Green means internally checked
 within the stated scope, including conditional lemmas and identified limitations.
 Unfilled nodes are open obligations. This is not a formally verified proof graph;
@@ -43,3 +45,4 @@ source or reproducible argument. Repository publication is not peer review.
 Live map: https://www.gero.uz/research/collatz-map/
 
 [Download the full map, video and original report/source selection](collatz-research-map-and-video-2026-09-16.zip). The archive preserves the source directories.
+
