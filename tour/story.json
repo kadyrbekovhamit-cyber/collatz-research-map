@@ -1,0 +1,100 @@
+[
+  {
+    "id": "intro",
+    "title": "Collatz, in colour",
+    "kicker": "GERO / RESEARCH ATLAS",
+    "lines": [
+      "356 nodes · 532 relationships",
+      "A map of the work — full conjecture open"
+    ],
+    "focus": [
+      "Full",
+      "Descent"
+    ],
+    "voice": "What would a mathematical research project look like as a three dimensional map? This is GERO's public Collatz research snapshot: three hundred fifty six nodes, connected by five hundred thirty two relationships. Rotate it, inspect an argument, and see where a route stops. The full Collatz conjecture remains unproved."
+  },
+  {
+    "id": "history",
+    "title": "A long search",
+    "kicker": "THE HISTORICAL BACKGROUND",
+    "lines": [
+      "1976–77  Terras and Everett",
+      "1996  Bernstein and Lagarias"
+    ],
+    "focus": [],
+    "voice": "The rule is simple: halve an even number; multiply an odd number by three and add one. The claim is that every positive start reaches one. Terras and Everett established almost everywhere descent in natural density. Bernstein and Lagarias developed exact two adic coding. These achievements explain structure, while leaving the universal question open."
+  },
+  {
+    "id": "tao",
+    "title": "Almost all is not every",
+    "kicker": "2019 / PUBLISHED 2022",
+    "lines": [
+      "Tao: almost bounded orbit minima",
+      "The theorem uses logarithmic density"
+    ],
+    "focus": [
+      "Descent",
+      "OtherCodes"
+    ],
+    "voice": "Terence Tao's major advance controls orbit minima. For any bound tending to infinity, however slowly, almost every start eventually falls below that bound, in logarithmic density. This does not establish that every start reaches one. A map must keep that distinction visible: an impressive theorem and a complete solution are different claims."
+  },
+  {
+    "id": "colours",
+    "title": "Read the colours",
+    "kicker": "STATUS, NOT CONFIDENCE",
+    "lines": [
+      "Blue: internally checked in stated scope",
+      "Amber: an unresolved obligation"
+    ],
+    "focus": [
+      "PositiveH",
+      "Trace",
+      "Full"
+    ],
+    "voice": "Our colours describe categories, not a probability that Collatz is solved. Blue marks internally checked arguments within their stated assumptions. Cyan identifies selected published references. Amber marks open obligations. This is a navigation layout, not a mathematical distance or a formal proof graph. The data snapshot is from September sixteenth, twenty twenty six."
+  },
+  {
+    "id": "correction",
+    "title": "Keep the corrections visible",
+    "kicker": "RESEARCH HISTORY / R184",
+    "lines": [
+      "A common infimum gap was ruled out",
+      "The earlier route needed correction"
+    ],
+    "focus": [
+      "PowerBarrier"
+    ],
+    "voice": "Research history also includes corrections. The coral node records an error in an earlier route: a proposed common infimum gap could not hold. Preserving that correction matters. A useful map should make failed assumptions discoverable, alongside the arguments that survived internal checking. Independent review remains a separate step."
+  },
+  {
+    "id": "frontier",
+    "title": "The current branch has a boundary",
+    "kicker": "PUBLIC SNAPSHOT / REPORTS 423–425",
+    "lines": [
+      "A conditional certificate reduction",
+      "Coefficient bounds and coverage remain open"
+    ],
+    "focus": [
+      "ThetaCubicLocation",
+      "ThetaFirstJet",
+      "ThetaJetWidth",
+      "ThetaDeepExcessOpen",
+      "ThetaLargeOrderOpen"
+    ],
+    "voice": "In the public snapshot, one restricted branch reduces a first coefficient certificate to degree below four d, under explicit hypotheses. Bounds for the actual coefficients remain missing. So does coverage of arbitrary Collatz trajectories. Closing a local branch would be progress, but would not by itself establish the conjecture."
+  },
+  {
+    "id": "review",
+    "title": "Choose a node. Challenge a step.",
+    "kicker": "OPEN MATERIALS / INDEPENDENT REVIEW",
+    "lines": [
+      "Explore the map · inspect the assumptions",
+      "GERO · GitHub · Zenodo · LinkedIn"
+    ],
+    "focus": [
+      "Descent",
+      "Full"
+    ],
+    "voice": "One sufficient route is universal descent: every odd start greater than one must eventually fall below itself. We have not proved that statement. We are Khamit Kadyrbekov and his son, Daniyal Kadirbekov. We have been working on this project for several months with artificial intelligence assistance. Explore the map and leave a specific correction, missing assumption, or relevant source."
+  }
+]

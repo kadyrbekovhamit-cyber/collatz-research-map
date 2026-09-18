@@ -1,0 +1,58 @@
+[
+  {
+    "scene": "intro",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: Full, Descent",
+    "overlay": [
+      "356 nodes \u00b7 532 relationships",
+      "A map of the work \u2014 full conjecture open"
+    ]
+  },
+  {
+    "scene": "history",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: ",
+    "overlay": [
+      "1976\u201377  Terras and Everett",
+      "1996  Bernstein and Lagarias"
+    ]
+  },
+  {
+    "scene": "tao",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: Descent, OtherCodes",
+    "overlay": [
+      "Tao: almost bounded orbit minima",
+      "The theorem uses logarithmic density"
+    ]
+  },
+  {
+    "scene": "colours",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: PositiveH, Trace, Full",
+    "overlay": [
+      "Blue: internally checked in stated scope",
+      "Amber: an unresolved obligation"
+    ]
+  },
+  {
+    "scene": "correction",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: PowerBarrier",
+    "overlay": [
+      "A common infimum gap was ruled out",
+      "The earlier route needed correction"
+    ]
+  },
+  {
+    "scene": "frontier",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: ThetaCubicLocation, ThetaFirstJet, ThetaJetWidth, ThetaDeepExcessOpen, ThetaLargeOrderOpen",
+    "overlay": [
+      "A conditional certificate reduction",
+      "Coefficient bounds and coverage remain open"
+    ]
+  },
+  {
+    "scene": "review",
+    "visual": "Continuous 3D camera rotation; highlighted IDs: Descent, Full",
+    "overlay": [
+      "Explore the map \u00b7 inspect the assumptions",
+      "GERO \u00b7 GitHub \u00b7 Zenodo \u00b7 LinkedIn"
+    ]
+  }
+]

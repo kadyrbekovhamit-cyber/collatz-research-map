@@ -1,0 +1,314 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 4252500,
+    "text": "Terence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5397080,
+    "duration": 2963750,
+    "text": "Tao's"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8489580,
+    "duration": 3350410,
+    "text": "major"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11969160,
+    "duration": 3995000,
+    "text": "advance"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16092910,
+    "duration": 5154580,
+    "text": "controls"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21376250,
+    "duration": 2835000,
+    "text": "orbit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24340000,
+    "duration": 5154580,
+    "text": "minima"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38402080,
+    "duration": 2577500,
+    "text": "For"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 41108330,
+    "duration": 2061660,
+    "text": "any"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43299160,
+    "duration": 3865830,
+    "text": "bound"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47293750,
+    "duration": 3479580,
+    "text": "tending"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50902080,
+    "duration": 1288750,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52319580,
+    "duration": 6572080,
+    "text": "infinity"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61211250,
+    "duration": 3737080,
+    "text": "however"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65077500,
+    "duration": 5927910,
+    "text": "slowly"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73067080,
+    "duration": 3995000,
+    "text": "almost"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 77190830,
+    "duration": 2319580,
+    "text": "every"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79639160,
+    "duration": 2835000,
+    "text": "start"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 82602910,
+    "duration": 5412500,
+    "text": "eventually"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 88144160,
+    "duration": 3350410,
+    "text": "falls"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91623750,
+    "duration": 2577500,
+    "text": "below"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 94330000,
+    "duration": 1546250,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96005000,
+    "duration": 4123750,
+    "text": "bound"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102190830,
+    "duration": 1546250,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103865830,
+    "duration": 6443330,
+    "text": "logarithmic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110438330,
+    "duration": 6056660,
+    "text": "density"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125386660,
+    "duration": 2319580,
+    "text": "This"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127835000,
+    "duration": 1804160,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 129767910,
+    "duration": 2061660,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131958750,
+    "duration": 6056660,
+    "text": "establish"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138144160,
+    "duration": 1932910,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140206250,
+    "duration": 2319580,
+    "text": "every"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 142654580,
+    "duration": 2963750,
+    "text": "start"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 145747500,
+    "duration": 3608330,
+    "text": "reaches"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149484580,
+    "duration": 3865830,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 162242080,
+    "duration": 1160000,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163530830,
+    "duration": 2963750,
+    "text": "map"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 166623750,
+    "duration": 2577500,
+    "text": "must"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169330000,
+    "duration": 2319580,
+    "text": "keep"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171778330,
+    "duration": 1675410,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173582500,
+    "duration": 5541250,
+    "text": "distinction"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 179252500,
+    "duration": 5412500,
+    "text": "visible"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187113330,
+    "duration": 773330,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 188015410,
+    "duration": 4639160,
+    "text": "impressive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 192783330,
+    "duration": 4252500,
+    "text": "theorem"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 197165000,
+    "duration": 1288750,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 198582500,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 199226660,
+    "duration": 4381250,
+    "text": "complete"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 203737080,
+    "duration": 5927910,
+    "text": "solution"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 209793750,
+    "duration": 1675410,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 211597910,
+    "duration": 3350410,
+    "text": "different"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 215077500,
+    "duration": 6443330,
+    "text": "claims"
+  }
+]

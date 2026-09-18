@@ -1,0 +1,296 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 1932910,
+    "text": "What"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3077500,
+    "duration": 1030830,
+    "text": "would"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4237080,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 4752500,
+    "duration": 7474160,
+    "text": "mathematical"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 12355830,
+    "duration": 4381250,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16865830,
+    "duration": 5799160,
+    "text": "project"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 22793750,
+    "duration": 1675410,
+    "text": "look"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24597910,
+    "duration": 1932910,
+    "text": "like"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26659580,
+    "duration": 1030830,
+    "text": "as"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27819580,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28463750,
+    "duration": 2577500,
+    "text": "three"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31170000,
+    "duration": 5154580,
+    "text": "dimensional"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36453750,
+    "duration": 4123750,
+    "text": "map"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49484580,
+    "duration": 2577500,
+    "text": "This"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52190830,
+    "duration": 1288750,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53608330,
+    "duration": 3737080,
+    "text": "GERO's"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57474160,
+    "duration": 3608330,
+    "text": "public"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 61211250,
+    "duration": 4252500,
+    "text": "Collatz"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65592910,
+    "duration": 4510410,
+    "text": "research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 70232080,
+    "duration": 6830000,
+    "text": "snapshot"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78737080,
+    "duration": 2190830,
+    "text": "three"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81056660,
+    "duration": 3092910,
+    "text": "hundred"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 84278330,
+    "duration": 3479580,
+    "text": "fifty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 87886660,
+    "duration": 3092910,
+    "text": "six"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 91108330,
+    "duration": 5283330,
+    "text": "nodes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97938330,
+    "duration": 4639160,
+    "text": "connected"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102706250,
+    "duration": 1417500,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104252500,
+    "duration": 3092910,
+    "text": "five"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 107474160,
+    "duration": 3221660,
+    "text": "hundred"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110824580,
+    "duration": 2963750,
+    "text": "thirty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113917500,
+    "duration": 2190830,
+    "text": "two"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116237080,
+    "duration": 10309160,
+    "text": "relationships"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 135438330,
+    "duration": 4767910,
+    "text": "Rotate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140335000,
+    "duration": 1932910,
+    "text": "it"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143685410,
+    "duration": 4639160,
+    "text": "inspect"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 148453750,
+    "duration": 1030830,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149613330,
+    "duration": 6056660,
+    "text": "argument"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157474160,
+    "duration": 1288750,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 158891660,
+    "duration": 1932910,
+    "text": "see"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 160953750,
+    "duration": 1804160,
+    "text": "where"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 162886660,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163530830,
+    "duration": 2706250,
+    "text": "route"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 166365830,
+    "duration": 6314580,
+    "text": "stops"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181572080,
+    "duration": 1417500,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 183118330,
+    "duration": 2448330,
+    "text": "full"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 185695830,
+    "duration": 4252500,
+    "text": "Collatz"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 190077500,
+    "duration": 5799160,
+    "text": "conjecture"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 196005000,
+    "duration": 3865830,
+    "text": "remains"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 200000000,
+    "duration": 6830000,
+    "text": "unproved"
+  }
+]

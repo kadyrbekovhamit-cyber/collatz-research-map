@@ -1,0 +1,31 @@
+{
+  "snapshot": "Snapshot 2026-09-16; full conjecture unresolved; 356 nodes; 532 relationships.",
+  "graph_sha256": "87f7fdfaa4ea53be23da1e438326aec1535578adf67caa124611c4ab7a3e9f6c",
+  "nodes": 356,
+  "edges": 532,
+  "scenes": 7,
+  "duration_seconds": 173.70833333333334,
+  "voice": "en-US-JennyNeural",
+  "rate": "-3%",
+  "engine": "edge-tts 7.2.8",
+  "word_events_match_script": true,
+  "focus_ids_exist": true,
+  "audio_played": false,
+  "browser_checks": [
+    "search 0425 returns ThetaJetWidth",
+    "node details include scope and adjacency",
+    "rotation start/pause",
+    "correction guided view",
+    "no autoplay"
+  ],
+  "new_publications": [],
+  "full_video_decode": "passed",
+  "video_resolution": "1280x720",
+  "fps": 24,
+  "codec": "H.264 / AAC",
+  "encoded_contact_sheet_reviewed": true,
+  "audio_mean_dbfs": -21.6,
+  "audio_peak_dbfs": -1.5,
+  "human_listening_performed": false,
+  "boundary": "Auditory pronunciation has not been subjectively checked; no playback per user instruction."
+}

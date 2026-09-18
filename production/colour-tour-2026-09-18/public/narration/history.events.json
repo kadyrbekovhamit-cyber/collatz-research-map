@@ -1,0 +1,326 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 1546250,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2690830,
+    "duration": 2835000,
+    "text": "rule"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5654580,
+    "duration": 1160000,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6943330,
+    "duration": 5025830,
+    "text": "simple"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 14160000,
+    "duration": 1030830,
+    "text": "halve"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 15319580,
+    "duration": 1030830,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16479580,
+    "duration": 2835000,
+    "text": "even"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 19443330,
+    "duration": 4252500,
+    "text": "number"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 25886660,
+    "duration": 5283330,
+    "text": "multiply"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31299160,
+    "duration": 1160000,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32587500,
+    "duration": 2319580,
+    "text": "odd"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 35036250,
+    "duration": 3221660,
+    "text": "number"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38386660,
+    "duration": 1546250,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 40061660,
+    "duration": 3608330,
+    "text": "three"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 43799160,
+    "duration": 1546250,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45474160,
+    "duration": 2190830,
+    "text": "add"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47793750,
+    "duration": 3995000,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60695830,
+    "duration": 1546250,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 62371250,
+    "duration": 3221660,
+    "text": "claim"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 65721660,
+    "duration": 1160000,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 67010410,
+    "duration": 1932910,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69072080,
+    "duration": 2319580,
+    "text": "every"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71520410,
+    "duration": 4897080,
+    "text": "positive"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76546250,
+    "duration": 2963750,
+    "text": "start"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79639160,
+    "duration": 3737080,
+    "text": "reaches"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83505000,
+    "duration": 3865830,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 96262910,
+    "duration": 3995000,
+    "text": "Terras"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100386660,
+    "duration": 1804160,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 102319580,
+    "duration": 2835000,
+    "text": "Everett"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 105283330,
+    "duration": 6830000,
+    "text": "established"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 112242080,
+    "duration": 3995000,
+    "text": "almost"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 116365830,
+    "duration": 4252500,
+    "text": "everywhere"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120747500,
+    "duration": 4510410,
+    "text": "descent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 125386660,
+    "duration": 1675410,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127190830,
+    "duration": 3865830,
+    "text": "natural"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131185410,
+    "duration": 6056660,
+    "text": "density"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 146134160,
+    "duration": 5283330,
+    "text": "Bernstein"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 151546250,
+    "duration": 1288750,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 152963750,
+    "duration": 5927910,
+    "text": "Lagarias"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 159020410,
+    "duration": 4639160,
+    "text": "developed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163788750,
+    "duration": 5025830,
+    "text": "exact"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168943330,
+    "duration": 1932910,
+    "text": "two"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 171005000,
+    "duration": 2835000,
+    "text": "adic"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 173969160,
+    "duration": 5025830,
+    "text": "coding"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187886660,
+    "duration": 2577500,
+    "text": "These"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 190592910,
+    "duration": 5283330,
+    "text": "achievements"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 196005000,
+    "duration": 4767910,
+    "text": "explain"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 200902080,
+    "duration": 5799160,
+    "text": "structure"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 209407080,
+    "duration": 1932910,
+    "text": "while"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 211469160,
+    "duration": 2835000,
+    "text": "leaving"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 214432910,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 215335000,
+    "duration": 5670000,
+    "text": "universal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 221134160,
+    "duration": 4639160,
+    "text": "question"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 225902080,
+    "duration": 4639160,
+    "text": "open"
+  }
+]

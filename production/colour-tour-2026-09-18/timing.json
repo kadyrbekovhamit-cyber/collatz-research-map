@@ -1,0 +1,2694 @@
+{
+  "fps": 24,
+  "durationInFrames": 4169,
+  "scenes": [
+    {
+      "id": "intro",
+      "title": "Collatz, in colour",
+      "kicker": "GERO / RESEARCH ATLAS",
+      "lines": [
+        "356 nodes · 532 relationships",
+        "A map of the work — full conjecture open"
+      ],
+      "focus": [
+        "Full",
+        "Descent"
+      ],
+      "voice": "What would a mathematical research project look like as a three dimensional map? This is GERO's public Collatz research snapshot: three hundred fifty six nodes, connected by five hundred thirty two relationships. Rotate it, inspect an argument, and see where a route stops. The full Collatz conjecture remains unproved.",
+      "audioSeconds": 21.576,
+      "durationInFrames": 540,
+      "startFrame": 0,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " What",
+          "startMs": 101.541,
+          "endMs": 294.832,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " would",
+          "startMs": 307.75,
+          "endMs": 410.833,
+          "timestampMs": 307.75,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 423.708,
+          "endMs": 462.3739,
+          "timestampMs": 423.708,
+          "confidence": null
+        },
+        {
+          "text": " mathematical",
+          "startMs": 475.25,
+          "endMs": 1222.666,
+          "timestampMs": 475.25,
+          "confidence": null
+        },
+        {
+          "text": " research",
+          "startMs": 1235.583,
+          "endMs": 1673.708,
+          "timestampMs": 1235.583,
+          "confidence": null
+        },
+        {
+          "text": " project",
+          "startMs": 1686.583,
+          "endMs": 2266.499,
+          "timestampMs": 1686.583,
+          "confidence": null
+        },
+        {
+          "text": " look",
+          "startMs": 2279.375,
+          "endMs": 2446.916,
+          "timestampMs": 2279.375,
+          "confidence": null
+        },
+        {
+          "text": " like",
+          "startMs": 2459.791,
+          "endMs": 2653.082,
+          "timestampMs": 2459.791,
+          "confidence": null
+        },
+        {
+          "text": " as",
+          "startMs": 2665.958,
+          "endMs": 2769.041,
+          "timestampMs": 2665.958,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 2781.958,
+          "endMs": 2833.4989,
+          "timestampMs": 2781.958,
+          "confidence": null
+        },
+        {
+          "text": " three",
+          "startMs": 2846.375,
+          "endMs": 3104.125,
+          "timestampMs": 2846.375,
+          "confidence": null
+        },
+        {
+          "text": " dimensional",
+          "startMs": 3117.0,
+          "endMs": 3632.458,
+          "timestampMs": 3117.0,
+          "confidence": null
+        },
+        {
+          "text": " map?",
+          "startMs": 3645.375,
+          "endMs": 4057.75,
+          "timestampMs": 3645.375,
+          "confidence": null
+        },
+        {
+          "text": " This",
+          "startMs": 4948.458,
+          "endMs": 5206.208,
+          "timestampMs": 4948.458,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 5219.083,
+          "endMs": 5347.958,
+          "timestampMs": 5219.083,
+          "confidence": null
+        },
+        {
+          "text": " GERO's",
+          "startMs": 5360.833,
+          "endMs": 5734.541,
+          "timestampMs": 5360.833,
+          "confidence": null
+        },
+        {
+          "text": " public",
+          "startMs": 5747.416,
+          "endMs": 6108.249,
+          "timestampMs": 5747.416,
+          "confidence": null
+        },
+        {
+          "text": " Collatz",
+          "startMs": 6121.125,
+          "endMs": 6546.375,
+          "timestampMs": 6121.125,
+          "confidence": null
+        },
+        {
+          "text": " research",
+          "startMs": 6559.291,
+          "endMs": 7010.332,
+          "timestampMs": 6559.291,
+          "confidence": null
+        },
+        {
+          "text": " snapshot:",
+          "startMs": 7023.208,
+          "endMs": 7706.208,
+          "timestampMs": 7023.208,
+          "confidence": null
+        },
+        {
+          "text": " three",
+          "startMs": 7873.708,
+          "endMs": 8092.791,
+          "timestampMs": 7873.708,
+          "confidence": null
+        },
+        {
+          "text": " hundred",
+          "startMs": 8105.666,
+          "endMs": 8414.957,
+          "timestampMs": 8105.666,
+          "confidence": null
+        },
+        {
+          "text": " fifty",
+          "startMs": 8427.833,
+          "endMs": 8775.791,
+          "timestampMs": 8427.833,
+          "confidence": null
+        },
+        {
+          "text": " six",
+          "startMs": 8788.666,
+          "endMs": 9097.957,
+          "timestampMs": 8788.666,
+          "confidence": null
+        },
+        {
+          "text": " nodes,",
+          "startMs": 9110.833,
+          "endMs": 9639.166,
+          "timestampMs": 9110.833,
+          "confidence": null
+        },
+        {
+          "text": " connected",
+          "startMs": 9793.833,
+          "endMs": 10257.749,
+          "timestampMs": 9793.833,
+          "confidence": null
+        },
+        {
+          "text": " by",
+          "startMs": 10270.625,
+          "endMs": 10412.375,
+          "timestampMs": 10270.625,
+          "confidence": null
+        },
+        {
+          "text": " five",
+          "startMs": 10425.25,
+          "endMs": 10734.541,
+          "timestampMs": 10425.25,
+          "confidence": null
+        },
+        {
+          "text": " hundred",
+          "startMs": 10747.416,
+          "endMs": 11069.582,
+          "timestampMs": 10747.416,
+          "confidence": null
+        },
+        {
+          "text": " thirty",
+          "startMs": 11082.458,
+          "endMs": 11378.833,
+          "timestampMs": 11082.458,
+          "confidence": null
+        },
+        {
+          "text": " two",
+          "startMs": 11391.75,
+          "endMs": 11610.833,
+          "timestampMs": 11391.75,
+          "confidence": null
+        },
+        {
+          "text": " relationships.",
+          "startMs": 11623.708,
+          "endMs": 12654.624,
+          "timestampMs": 11623.708,
+          "confidence": null
+        },
+        {
+          "text": " Rotate",
+          "startMs": 13543.833,
+          "endMs": 14020.624,
+          "timestampMs": 13543.833,
+          "confidence": null
+        },
+        {
+          "text": " it,",
+          "startMs": 14033.5,
+          "endMs": 14226.791,
+          "timestampMs": 14033.5,
+          "confidence": null
+        },
+        {
+          "text": " inspect",
+          "startMs": 14368.541,
+          "endMs": 14832.457,
+          "timestampMs": 14368.541,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 14845.375,
+          "endMs": 14948.458,
+          "timestampMs": 14845.375,
+          "confidence": null
+        },
+        {
+          "text": " argument,",
+          "startMs": 14961.333,
+          "endMs": 15566.999,
+          "timestampMs": 14961.333,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 15747.416,
+          "endMs": 15876.291,
+          "timestampMs": 15747.416,
+          "confidence": null
+        },
+        {
+          "text": " see",
+          "startMs": 15889.166,
+          "endMs": 16082.457,
+          "timestampMs": 15889.166,
+          "confidence": null
+        },
+        {
+          "text": " where",
+          "startMs": 16095.375,
+          "endMs": 16275.791,
+          "timestampMs": 16095.375,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 16288.666,
+          "endMs": 16340.2069,
+          "timestampMs": 16288.666,
+          "confidence": null
+        },
+        {
+          "text": " route",
+          "startMs": 16353.083,
+          "endMs": 16623.708,
+          "timestampMs": 16353.083,
+          "confidence": null
+        },
+        {
+          "text": " stops.",
+          "startMs": 16636.583,
+          "endMs": 17268.041,
+          "timestampMs": 16636.583,
+          "confidence": null
+        },
+        {
+          "text": " The",
+          "startMs": 18157.208,
+          "endMs": 18298.958,
+          "timestampMs": 18157.208,
+          "confidence": null
+        },
+        {
+          "text": " full",
+          "startMs": 18311.833,
+          "endMs": 18556.666,
+          "timestampMs": 18311.833,
+          "confidence": null
+        },
+        {
+          "text": " Collatz",
+          "startMs": 18569.583,
+          "endMs": 18994.833,
+          "timestampMs": 18569.583,
+          "confidence": null
+        },
+        {
+          "text": " conjecture",
+          "startMs": 19007.75,
+          "endMs": 19587.666,
+          "timestampMs": 19007.75,
+          "confidence": null
+        },
+        {
+          "text": " remains",
+          "startMs": 19600.5,
+          "endMs": 19987.083,
+          "timestampMs": 19600.5,
+          "confidence": null
+        },
+        {
+          "text": " unproved.",
+          "startMs": 20000.0,
+          "endMs": 20683.0,
+          "timestampMs": 20000.0,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "title": "A long search",
+      "kicker": "THE HISTORICAL BACKGROUND",
+      "lines": [
+        "1976–77  Terras and Everett",
+        "1996  Bernstein and Lagarias"
+      ],
+      "focus": [],
+      "voice": "The rule is simple: halve an even number; multiply an odd number by three and add one. The claim is that every positive start reaches one. Terras and Everett established almost everywhere descent in natural density. Bernstein and Lagarias developed exact two adic coding. These achievements explain structure, while leaving the universal question open.",
+      "audioSeconds": 23.952,
+      "durationInFrames": 597,
+      "startFrame": 540,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " The",
+          "startMs": 101.541,
+          "endMs": 256.166,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " rule",
+          "startMs": 269.083,
+          "endMs": 552.583,
+          "timestampMs": 269.083,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 565.458,
+          "endMs": 681.458,
+          "timestampMs": 565.458,
+          "confidence": null
+        },
+        {
+          "text": " simple:",
+          "startMs": 694.333,
+          "endMs": 1196.916,
+          "timestampMs": 694.333,
+          "confidence": null
+        },
+        {
+          "text": " halve",
+          "startMs": 1416.0,
+          "endMs": 1519.083,
+          "timestampMs": 1416.0,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 1531.958,
+          "endMs": 1635.041,
+          "timestampMs": 1531.958,
+          "confidence": null
+        },
+        {
+          "text": " even",
+          "startMs": 1647.958,
+          "endMs": 1931.458,
+          "timestampMs": 1647.958,
+          "confidence": null
+        },
+        {
+          "text": " number;",
+          "startMs": 1944.333,
+          "endMs": 2369.583,
+          "timestampMs": 1944.333,
+          "confidence": null
+        },
+        {
+          "text": " multiply",
+          "startMs": 2588.666,
+          "endMs": 3116.999,
+          "timestampMs": 2588.666,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 3129.916,
+          "endMs": 3245.916,
+          "timestampMs": 3129.916,
+          "confidence": null
+        },
+        {
+          "text": " odd",
+          "startMs": 3258.75,
+          "endMs": 3490.708,
+          "timestampMs": 3258.75,
+          "confidence": null
+        },
+        {
+          "text": " number",
+          "startMs": 3503.625,
+          "endMs": 3825.791,
+          "timestampMs": 3503.625,
+          "confidence": null
+        },
+        {
+          "text": " by",
+          "startMs": 3838.666,
+          "endMs": 3993.291,
+          "timestampMs": 3838.666,
+          "confidence": null
+        },
+        {
+          "text": " three",
+          "startMs": 4006.166,
+          "endMs": 4366.999,
+          "timestampMs": 4006.166,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 4379.916,
+          "endMs": 4534.541,
+          "timestampMs": 4379.916,
+          "confidence": null
+        },
+        {
+          "text": " add",
+          "startMs": 4547.416,
+          "endMs": 4766.499,
+          "timestampMs": 4547.416,
+          "confidence": null
+        },
+        {
+          "text": " one.",
+          "startMs": 4779.375,
+          "endMs": 5178.875,
+          "timestampMs": 4779.375,
+          "confidence": null
+        },
+        {
+          "text": " The",
+          "startMs": 6069.583,
+          "endMs": 6224.208,
+          "timestampMs": 6069.583,
+          "confidence": null
+        },
+        {
+          "text": " claim",
+          "startMs": 6237.125,
+          "endMs": 6559.291,
+          "timestampMs": 6237.125,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 6572.166,
+          "endMs": 6688.166,
+          "timestampMs": 6572.166,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 6701.041,
+          "endMs": 6894.332,
+          "timestampMs": 6701.041,
+          "confidence": null
+        },
+        {
+          "text": " every",
+          "startMs": 6907.208,
+          "endMs": 7139.166,
+          "timestampMs": 6907.208,
+          "confidence": null
+        },
+        {
+          "text": " positive",
+          "startMs": 7152.041,
+          "endMs": 7641.749,
+          "timestampMs": 7152.041,
+          "confidence": null
+        },
+        {
+          "text": " start",
+          "startMs": 7654.625,
+          "endMs": 7951.0,
+          "timestampMs": 7654.625,
+          "confidence": null
+        },
+        {
+          "text": " reaches",
+          "startMs": 7963.916,
+          "endMs": 8337.624,
+          "timestampMs": 7963.916,
+          "confidence": null
+        },
+        {
+          "text": " one.",
+          "startMs": 8350.5,
+          "endMs": 8737.083,
+          "timestampMs": 8350.5,
+          "confidence": null
+        },
+        {
+          "text": " Terras",
+          "startMs": 9626.291,
+          "endMs": 10025.791,
+          "timestampMs": 9626.291,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 10038.666,
+          "endMs": 10219.082,
+          "timestampMs": 10038.666,
+          "confidence": null
+        },
+        {
+          "text": " Everett",
+          "startMs": 10231.958,
+          "endMs": 10515.458,
+          "timestampMs": 10231.958,
+          "confidence": null
+        },
+        {
+          "text": " established",
+          "startMs": 10528.333,
+          "endMs": 11211.333,
+          "timestampMs": 10528.333,
+          "confidence": null
+        },
+        {
+          "text": " almost",
+          "startMs": 11224.208,
+          "endMs": 11623.708,
+          "timestampMs": 11224.208,
+          "confidence": null
+        },
+        {
+          "text": " everywhere",
+          "startMs": 11636.583,
+          "endMs": 12061.833,
+          "timestampMs": 11636.583,
+          "confidence": null
+        },
+        {
+          "text": " descent",
+          "startMs": 12074.75,
+          "endMs": 12525.791,
+          "timestampMs": 12074.75,
+          "confidence": null
+        },
+        {
+          "text": " in",
+          "startMs": 12538.666,
+          "endMs": 12706.207,
+          "timestampMs": 12538.666,
+          "confidence": null
+        },
+        {
+          "text": " natural",
+          "startMs": 12719.083,
+          "endMs": 13105.666,
+          "timestampMs": 12719.083,
+          "confidence": null
+        },
+        {
+          "text": " density.",
+          "startMs": 13118.541,
+          "endMs": 13724.207,
+          "timestampMs": 13118.541,
+          "confidence": null
+        },
+        {
+          "text": " Bernstein",
+          "startMs": 14613.416,
+          "endMs": 15141.749,
+          "timestampMs": 14613.416,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 15154.625,
+          "endMs": 15283.5,
+          "timestampMs": 15154.625,
+          "confidence": null
+        },
+        {
+          "text": " Lagarias",
+          "startMs": 15296.375,
+          "endMs": 15889.166,
+          "timestampMs": 15296.375,
+          "confidence": null
+        },
+        {
+          "text": " developed",
+          "startMs": 15902.041,
+          "endMs": 16365.957,
+          "timestampMs": 15902.041,
+          "confidence": null
+        },
+        {
+          "text": " exact",
+          "startMs": 16378.875,
+          "endMs": 16881.458,
+          "timestampMs": 16378.875,
+          "confidence": null
+        },
+        {
+          "text": " two",
+          "startMs": 16894.333,
+          "endMs": 17087.624,
+          "timestampMs": 16894.333,
+          "confidence": null
+        },
+        {
+          "text": " adic",
+          "startMs": 17100.5,
+          "endMs": 17384.0,
+          "timestampMs": 17100.5,
+          "confidence": null
+        },
+        {
+          "text": " coding.",
+          "startMs": 17396.916,
+          "endMs": 17899.499,
+          "timestampMs": 17396.916,
+          "confidence": null
+        },
+        {
+          "text": " These",
+          "startMs": 18788.666,
+          "endMs": 19046.416,
+          "timestampMs": 18788.666,
+          "confidence": null
+        },
+        {
+          "text": " achievements",
+          "startMs": 19059.291,
+          "endMs": 19587.624,
+          "timestampMs": 19059.291,
+          "confidence": null
+        },
+        {
+          "text": " explain",
+          "startMs": 19600.5,
+          "endMs": 20077.291,
+          "timestampMs": 19600.5,
+          "confidence": null
+        },
+        {
+          "text": " structure,",
+          "startMs": 20090.208,
+          "endMs": 20670.124,
+          "timestampMs": 20090.208,
+          "confidence": null
+        },
+        {
+          "text": " while",
+          "startMs": 20940.708,
+          "endMs": 21133.999,
+          "timestampMs": 20940.708,
+          "confidence": null
+        },
+        {
+          "text": " leaving",
+          "startMs": 21146.916,
+          "endMs": 21430.416,
+          "timestampMs": 21146.916,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 21443.291,
+          "endMs": 21520.624,
+          "timestampMs": 21443.291,
+          "confidence": null
+        },
+        {
+          "text": " universal",
+          "startMs": 21533.5,
+          "endMs": 22100.5,
+          "timestampMs": 21533.5,
+          "confidence": null
+        },
+        {
+          "text": " question",
+          "startMs": 22113.416,
+          "endMs": 22577.332,
+          "timestampMs": 22113.416,
+          "confidence": null
+        },
+        {
+          "text": " open.",
+          "startMs": 22590.208,
+          "endMs": 23054.124,
+          "timestampMs": 22590.208,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "tao",
+      "title": "Almost all is not every",
+      "kicker": "2019 / PUBLISHED 2022",
+      "lines": [
+        "Tao: almost bounded orbit minima",
+        "The theorem uses logarithmic density"
+      ],
+      "focus": [
+        "Descent",
+        "OtherCodes"
+      ],
+      "voice": "Terence Tao's major advance controls orbit minima. For any bound tending to infinity, however slowly, almost every start eventually falls below that bound, in logarithmic density. This does not establish that every start reaches one. A map must keep that distinction visible: an impressive theorem and a complete solution are different claims.",
+      "audioSeconds": 23.064,
+      "durationInFrames": 576,
+      "startFrame": 1137,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " Terence",
+          "startMs": 101.541,
+          "endMs": 526.791,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " Tao's",
+          "startMs": 539.708,
+          "endMs": 836.083,
+          "timestampMs": 539.708,
+          "confidence": null
+        },
+        {
+          "text": " major",
+          "startMs": 848.958,
+          "endMs": 1183.999,
+          "timestampMs": 848.958,
+          "confidence": null
+        },
+        {
+          "text": " advance",
+          "startMs": 1196.916,
+          "endMs": 1596.416,
+          "timestampMs": 1196.916,
+          "confidence": null
+        },
+        {
+          "text": " controls",
+          "startMs": 1609.291,
+          "endMs": 2124.749,
+          "timestampMs": 1609.291,
+          "confidence": null
+        },
+        {
+          "text": " orbit",
+          "startMs": 2137.625,
+          "endMs": 2421.125,
+          "timestampMs": 2137.625,
+          "confidence": null
+        },
+        {
+          "text": " minima.",
+          "startMs": 2434.0,
+          "endMs": 2949.458,
+          "timestampMs": 2434.0,
+          "confidence": null
+        },
+        {
+          "text": " For",
+          "startMs": 3840.208,
+          "endMs": 4097.958,
+          "timestampMs": 3840.208,
+          "confidence": null
+        },
+        {
+          "text": " any",
+          "startMs": 4110.833,
+          "endMs": 4316.999,
+          "timestampMs": 4110.833,
+          "confidence": null
+        },
+        {
+          "text": " bound",
+          "startMs": 4329.916,
+          "endMs": 4716.499,
+          "timestampMs": 4329.916,
+          "confidence": null
+        },
+        {
+          "text": " tending",
+          "startMs": 4729.375,
+          "endMs": 5077.333,
+          "timestampMs": 4729.375,
+          "confidence": null
+        },
+        {
+          "text": " to",
+          "startMs": 5090.208,
+          "endMs": 5219.083,
+          "timestampMs": 5090.208,
+          "confidence": null
+        },
+        {
+          "text": " infinity,",
+          "startMs": 5231.958,
+          "endMs": 5889.166,
+          "timestampMs": 5231.958,
+          "confidence": null
+        },
+        {
+          "text": " however",
+          "startMs": 6121.125,
+          "endMs": 6494.833,
+          "timestampMs": 6121.125,
+          "confidence": null
+        },
+        {
+          "text": " slowly,",
+          "startMs": 6507.75,
+          "endMs": 7100.541,
+          "timestampMs": 6507.75,
+          "confidence": null
+        },
+        {
+          "text": " almost",
+          "startMs": 7306.708,
+          "endMs": 7706.208,
+          "timestampMs": 7306.708,
+          "confidence": null
+        },
+        {
+          "text": " every",
+          "startMs": 7719.083,
+          "endMs": 7951.041,
+          "timestampMs": 7719.083,
+          "confidence": null
+        },
+        {
+          "text": " start",
+          "startMs": 7963.916,
+          "endMs": 8247.416,
+          "timestampMs": 7963.916,
+          "confidence": null
+        },
+        {
+          "text": " eventually",
+          "startMs": 8260.291,
+          "endMs": 8801.541,
+          "timestampMs": 8260.291,
+          "confidence": null
+        },
+        {
+          "text": " falls",
+          "startMs": 8814.416,
+          "endMs": 9149.457,
+          "timestampMs": 8814.416,
+          "confidence": null
+        },
+        {
+          "text": " below",
+          "startMs": 9162.375,
+          "endMs": 9420.125,
+          "timestampMs": 9162.375,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 9433.0,
+          "endMs": 9587.625,
+          "timestampMs": 9433.0,
+          "confidence": null
+        },
+        {
+          "text": " bound,",
+          "startMs": 9600.5,
+          "endMs": 10012.875,
+          "timestampMs": 9600.5,
+          "confidence": null
+        },
+        {
+          "text": " in",
+          "startMs": 10219.083,
+          "endMs": 10373.708,
+          "timestampMs": 10219.083,
+          "confidence": null
+        },
+        {
+          "text": " logarithmic",
+          "startMs": 10386.583,
+          "endMs": 11030.916,
+          "timestampMs": 10386.583,
+          "confidence": null
+        },
+        {
+          "text": " density.",
+          "startMs": 11043.833,
+          "endMs": 11649.499,
+          "timestampMs": 11043.833,
+          "confidence": null
+        },
+        {
+          "text": " This",
+          "startMs": 12538.666,
+          "endMs": 12770.624,
+          "timestampMs": 12538.666,
+          "confidence": null
+        },
+        {
+          "text": " does",
+          "startMs": 12783.5,
+          "endMs": 12963.916,
+          "timestampMs": 12783.5,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 12976.791,
+          "endMs": 13182.957,
+          "timestampMs": 12976.791,
+          "confidence": null
+        },
+        {
+          "text": " establish",
+          "startMs": 13195.875,
+          "endMs": 13801.541,
+          "timestampMs": 13195.875,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 13814.416,
+          "endMs": 14007.707,
+          "timestampMs": 13814.416,
+          "confidence": null
+        },
+        {
+          "text": " every",
+          "startMs": 14020.625,
+          "endMs": 14252.583,
+          "timestampMs": 14020.625,
+          "confidence": null
+        },
+        {
+          "text": " start",
+          "startMs": 14265.458,
+          "endMs": 14561.833,
+          "timestampMs": 14265.458,
+          "confidence": null
+        },
+        {
+          "text": " reaches",
+          "startMs": 14574.75,
+          "endMs": 14935.583,
+          "timestampMs": 14574.75,
+          "confidence": null
+        },
+        {
+          "text": " one.",
+          "startMs": 14948.458,
+          "endMs": 15335.041,
+          "timestampMs": 14948.458,
+          "confidence": null
+        },
+        {
+          "text": " A",
+          "startMs": 16224.208,
+          "endMs": 16340.208,
+          "timestampMs": 16224.208,
+          "confidence": null
+        },
+        {
+          "text": " map",
+          "startMs": 16353.083,
+          "endMs": 16649.458,
+          "timestampMs": 16353.083,
+          "confidence": null
+        },
+        {
+          "text": " must",
+          "startMs": 16662.375,
+          "endMs": 16920.125,
+          "timestampMs": 16662.375,
+          "confidence": null
+        },
+        {
+          "text": " keep",
+          "startMs": 16933.0,
+          "endMs": 17164.958,
+          "timestampMs": 16933.0,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 17177.833,
+          "endMs": 17345.374,
+          "timestampMs": 17177.833,
+          "confidence": null
+        },
+        {
+          "text": " distinction",
+          "startMs": 17358.25,
+          "endMs": 17912.375,
+          "timestampMs": 17358.25,
+          "confidence": null
+        },
+        {
+          "text": " visible:",
+          "startMs": 17925.25,
+          "endMs": 18466.5,
+          "timestampMs": 17925.25,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 18711.333,
+          "endMs": 18788.666,
+          "timestampMs": 18711.333,
+          "confidence": null
+        },
+        {
+          "text": " impressive",
+          "startMs": 18801.541,
+          "endMs": 19265.457,
+          "timestampMs": 18801.541,
+          "confidence": null
+        },
+        {
+          "text": " theorem",
+          "startMs": 19278.333,
+          "endMs": 19703.583,
+          "timestampMs": 19278.333,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 19716.5,
+          "endMs": 19845.375,
+          "timestampMs": 19716.5,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 19858.25,
+          "endMs": 19909.7909,
+          "timestampMs": 19858.25,
+          "confidence": null
+        },
+        {
+          "text": " complete",
+          "startMs": 19922.666,
+          "endMs": 20360.791,
+          "timestampMs": 19922.666,
+          "confidence": null
+        },
+        {
+          "text": " solution",
+          "startMs": 20373.708,
+          "endMs": 20966.499,
+          "timestampMs": 20373.708,
+          "confidence": null
+        },
+        {
+          "text": " are",
+          "startMs": 20979.375,
+          "endMs": 21146.916,
+          "timestampMs": 20979.375,
+          "confidence": null
+        },
+        {
+          "text": " different",
+          "startMs": 21159.791,
+          "endMs": 21494.832,
+          "timestampMs": 21159.791,
+          "confidence": null
+        },
+        {
+          "text": " claims.",
+          "startMs": 21507.75,
+          "endMs": 22152.083,
+          "timestampMs": 21507.75,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "colours",
+      "title": "Read the colours",
+      "kicker": "STATUS, NOT CONFIDENCE",
+      "lines": [
+        "Blue: internally checked in stated scope",
+        "Amber: an unresolved obligation"
+      ],
+      "focus": [
+        "PositiveH",
+        "Trace",
+        "Full"
+      ],
+      "voice": "Our colours describe categories, not a probability that Collatz is solved. Blue marks internally checked arguments within their stated assumptions. Cyan identifies selected published references. Amber marks open obligations. This is a navigation layout, not a mathematical distance or a formal proof graph. The data snapshot is from September sixteenth, twenty twenty six.",
+      "audioSeconds": 27.168,
+      "durationInFrames": 674,
+      "startFrame": 1713,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " Our",
+          "startMs": 101.541,
+          "endMs": 281.957,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " colours",
+          "startMs": 294.833,
+          "endMs": 681.416,
+          "timestampMs": 294.833,
+          "confidence": null
+        },
+        {
+          "text": " describe",
+          "startMs": 694.333,
+          "endMs": 1145.374,
+          "timestampMs": 694.333,
+          "confidence": null
+        },
+        {
+          "text": " categories,",
+          "startMs": 1158.25,
+          "endMs": 1931.458,
+          "timestampMs": 1158.25,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 2124.75,
+          "endMs": 2343.833,
+          "timestampMs": 2124.75,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 2356.708,
+          "endMs": 2408.2489,
+          "timestampMs": 2356.708,
+          "confidence": null
+        },
+        {
+          "text": " probability",
+          "startMs": 2421.125,
+          "endMs": 3104.125,
+          "timestampMs": 2421.125,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 3117.0,
+          "endMs": 3284.541,
+          "timestampMs": 3117.0,
+          "confidence": null
+        },
+        {
+          "text": " Collatz",
+          "startMs": 3297.416,
+          "endMs": 3735.541,
+          "timestampMs": 3297.416,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 3748.458,
+          "endMs": 3864.458,
+          "timestampMs": 3748.458,
+          "confidence": null
+        },
+        {
+          "text": " solved.",
+          "startMs": 3877.333,
+          "endMs": 4444.333,
+          "timestampMs": 3877.333,
+          "confidence": null
+        },
+        {
+          "text": " Blue",
+          "startMs": 5335.041,
+          "endMs": 5554.124,
+          "timestampMs": 5335.041,
+          "confidence": null
+        },
+        {
+          "text": " marks",
+          "startMs": 5567.0,
+          "endMs": 5914.958,
+          "timestampMs": 5567.0,
+          "confidence": null
+        },
+        {
+          "text": " internally",
+          "startMs": 5927.833,
+          "endMs": 6469.083,
+          "timestampMs": 5927.833,
+          "confidence": null
+        },
+        {
+          "text": " checked",
+          "startMs": 6481.958,
+          "endMs": 6804.124,
+          "timestampMs": 6481.958,
+          "confidence": null
+        },
+        {
+          "text": " arguments",
+          "startMs": 6817.0,
+          "endMs": 7371.125,
+          "timestampMs": 6817.0,
+          "confidence": null
+        },
+        {
+          "text": " within",
+          "startMs": 7384.0,
+          "endMs": 7654.625,
+          "timestampMs": 7384.0,
+          "confidence": null
+        },
+        {
+          "text": " their",
+          "startMs": 7667.541,
+          "endMs": 7796.416,
+          "timestampMs": 7667.541,
+          "confidence": null
+        },
+        {
+          "text": " stated",
+          "startMs": 7809.291,
+          "endMs": 8170.124,
+          "timestampMs": 7809.291,
+          "confidence": null
+        },
+        {
+          "text": " assumptions.",
+          "startMs": 8183.0,
+          "endMs": 9059.291,
+          "timestampMs": 8183.0,
+          "confidence": null
+        },
+        {
+          "text": " Cyan",
+          "startMs": 9948.458,
+          "endMs": 10386.583,
+          "timestampMs": 9948.458,
+          "confidence": null
+        },
+        {
+          "text": " identifies",
+          "startMs": 10399.5,
+          "endMs": 11069.583,
+          "timestampMs": 10399.5,
+          "confidence": null
+        },
+        {
+          "text": " selected",
+          "startMs": 11082.458,
+          "endMs": 11546.374,
+          "timestampMs": 11082.458,
+          "confidence": null
+        },
+        {
+          "text": " published",
+          "startMs": 11559.291,
+          "endMs": 12010.332,
+          "timestampMs": 11559.291,
+          "confidence": null
+        },
+        {
+          "text": " references.",
+          "startMs": 12023.208,
+          "endMs": 12860.833,
+          "timestampMs": 12023.208,
+          "confidence": null
+        },
+        {
+          "text": " Amber",
+          "startMs": 13750.0,
+          "endMs": 14072.166,
+          "timestampMs": 13750.0,
+          "confidence": null
+        },
+        {
+          "text": " marks",
+          "startMs": 14085.041,
+          "endMs": 14420.082,
+          "timestampMs": 14085.041,
+          "confidence": null
+        },
+        {
+          "text": " open",
+          "startMs": 14433.0,
+          "endMs": 14677.833,
+          "timestampMs": 14433.0,
+          "confidence": null
+        },
+        {
+          "text": " obligations.",
+          "startMs": 14690.708,
+          "endMs": 15657.208,
+          "timestampMs": 14690.708,
+          "confidence": null
+        },
+        {
+          "text": " This",
+          "startMs": 16546.375,
+          "endMs": 16804.125,
+          "timestampMs": 16546.375,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 16817.0,
+          "endMs": 16920.083,
+          "timestampMs": 16817.0,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 16933.0,
+          "endMs": 16984.5409,
+          "timestampMs": 16933.0,
+          "confidence": null
+        },
+        {
+          "text": " navigation",
+          "startMs": 16997.416,
+          "endMs": 17719.082,
+          "timestampMs": 16997.416,
+          "confidence": null
+        },
+        {
+          "text": " layout,",
+          "startMs": 17731.958,
+          "endMs": 18221.666,
+          "timestampMs": 17731.958,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 18440.708,
+          "endMs": 18659.791,
+          "timestampMs": 18440.708,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 18672.666,
+          "endMs": 18711.3319,
+          "timestampMs": 18672.666,
+          "confidence": null
+        },
+        {
+          "text": " mathematical",
+          "startMs": 18724.208,
+          "endMs": 19432.958,
+          "timestampMs": 18724.208,
+          "confidence": null
+        },
+        {
+          "text": " distance",
+          "startMs": 19445.875,
+          "endMs": 19987.125,
+          "timestampMs": 19445.875,
+          "confidence": null
+        },
+        {
+          "text": " or",
+          "startMs": 20000.0,
+          "endMs": 20206.166,
+          "timestampMs": 20000.0,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 20219.083,
+          "endMs": 20270.6239,
+          "timestampMs": 20219.083,
+          "confidence": null
+        },
+        {
+          "text": " formal",
+          "startMs": 20283.5,
+          "endMs": 20631.458,
+          "timestampMs": 20283.5,
+          "confidence": null
+        },
+        {
+          "text": " proof",
+          "startMs": 20644.333,
+          "endMs": 20902.083,
+          "timestampMs": 20644.333,
+          "confidence": null
+        },
+        {
+          "text": " graph.",
+          "startMs": 20914.958,
+          "endMs": 21494.874,
+          "timestampMs": 20914.958,
+          "confidence": null
+        },
+        {
+          "text": " The",
+          "startMs": 22384.0,
+          "endMs": 22525.75,
+          "timestampMs": 22384.0,
+          "confidence": null
+        },
+        {
+          "text": " data",
+          "startMs": 22538.666,
+          "endMs": 22809.291,
+          "timestampMs": 22538.666,
+          "confidence": null
+        },
+        {
+          "text": " snapshot",
+          "startMs": 22822.166,
+          "endMs": 23414.957,
+          "timestampMs": 22822.166,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 23427.833,
+          "endMs": 23543.833,
+          "timestampMs": 23427.833,
+          "confidence": null
+        },
+        {
+          "text": " from",
+          "startMs": 23556.708,
+          "endMs": 23711.333,
+          "timestampMs": 23556.708,
+          "confidence": null
+        },
+        {
+          "text": " September",
+          "startMs": 23724.208,
+          "endMs": 24226.791,
+          "timestampMs": 23724.208,
+          "confidence": null
+        },
+        {
+          "text": " sixteenth,",
+          "startMs": 24239.708,
+          "endMs": 24922.708,
+          "timestampMs": 24239.708,
+          "confidence": null
+        },
+        {
+          "text": " twenty",
+          "startMs": 25038.666,
+          "endMs": 25322.166,
+          "timestampMs": 25038.666,
+          "confidence": null
+        },
+        {
+          "text": " twenty",
+          "startMs": 25335.041,
+          "endMs": 25644.332,
+          "timestampMs": 25335.041,
+          "confidence": null
+        },
+        {
+          "text": " six.",
+          "startMs": 25657.208,
+          "endMs": 26275.749,
+          "timestampMs": 25657.208,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "correction",
+      "title": "Keep the corrections visible",
+      "kicker": "RESEARCH HISTORY / R184",
+      "lines": [
+        "A common infimum gap was ruled out",
+        "The earlier route needed correction"
+      ],
+      "focus": [
+        "PowerBarrier"
+      ],
+      "voice": "Research history also includes corrections. The coral node records an error in an earlier route: a proposed common infimum gap could not hold. Preserving that correction matters. A useful map should make failed assumptions discoverable, alongside the arguments that survived internal checking. Independent review remains a separate step.",
+      "audioSeconds": 22.92,
+      "durationInFrames": 572,
+      "startFrame": 2387,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " Research",
+          "startMs": 101.541,
+          "endMs": 565.457,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " history",
+          "startMs": 578.333,
+          "endMs": 990.708,
+          "timestampMs": 578.333,
+          "confidence": null
+        },
+        {
+          "text": " also",
+          "startMs": 1003.625,
+          "endMs": 1312.916,
+          "timestampMs": 1003.625,
+          "confidence": null
+        },
+        {
+          "text": " includes",
+          "startMs": 1325.791,
+          "endMs": 1725.291,
+          "timestampMs": 1325.791,
+          "confidence": null
+        },
+        {
+          "text": " corrections.",
+          "startMs": 1738.125,
+          "endMs": 2575.75,
+          "timestampMs": 1738.125,
+          "confidence": null
+        },
+        {
+          "text": " The",
+          "startMs": 3466.5,
+          "endMs": 3608.25,
+          "timestampMs": 3466.5,
+          "confidence": null
+        },
+        {
+          "text": " coral",
+          "startMs": 3621.125,
+          "endMs": 3943.291,
+          "timestampMs": 3621.125,
+          "confidence": null
+        },
+        {
+          "text": " node",
+          "startMs": 3956.166,
+          "endMs": 4200.999,
+          "timestampMs": 3956.166,
+          "confidence": null
+        },
+        {
+          "text": " records",
+          "startMs": 4213.916,
+          "endMs": 4587.624,
+          "timestampMs": 4213.916,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 4600.5,
+          "endMs": 4768.041,
+          "timestampMs": 4600.5,
+          "confidence": null
+        },
+        {
+          "text": " error",
+          "startMs": 4780.916,
+          "endMs": 5077.291,
+          "timestampMs": 4780.916,
+          "confidence": null
+        },
+        {
+          "text": " in",
+          "startMs": 5090.208,
+          "endMs": 5219.083,
+          "timestampMs": 5090.208,
+          "confidence": null
+        },
+        {
+          "text": " an",
+          "startMs": 5231.958,
+          "endMs": 5347.958,
+          "timestampMs": 5231.958,
+          "confidence": null
+        },
+        {
+          "text": " earlier",
+          "startMs": 5360.833,
+          "endMs": 5773.208,
+          "timestampMs": 5360.833,
+          "confidence": null
+        },
+        {
+          "text": " route:",
+          "startMs": 5786.083,
+          "endMs": 6185.583,
+          "timestampMs": 5786.083,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 6404.625,
+          "endMs": 6443.2909,
+          "timestampMs": 6404.625,
+          "confidence": null
+        },
+        {
+          "text": " proposed",
+          "startMs": 6456.166,
+          "endMs": 6945.874,
+          "timestampMs": 6456.166,
+          "confidence": null
+        },
+        {
+          "text": " common",
+          "startMs": 6958.75,
+          "endMs": 7293.791,
+          "timestampMs": 6958.75,
+          "confidence": null
+        },
+        {
+          "text": " infimum",
+          "startMs": 7306.708,
+          "endMs": 7796.416,
+          "timestampMs": 7306.708,
+          "confidence": null
+        },
+        {
+          "text": " gap",
+          "startMs": 7809.291,
+          "endMs": 8144.332,
+          "timestampMs": 7809.291,
+          "confidence": null
+        },
+        {
+          "text": " could",
+          "startMs": 8157.208,
+          "endMs": 8298.958,
+          "timestampMs": 8157.208,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 8311.875,
+          "endMs": 8505.166,
+          "timestampMs": 8311.875,
+          "confidence": null
+        },
+        {
+          "text": " hold.",
+          "startMs": 8518.041,
+          "endMs": 8994.832,
+          "timestampMs": 8518.041,
+          "confidence": null
+        },
+        {
+          "text": " Preserving",
+          "startMs": 9884.0,
+          "endMs": 10399.458,
+          "timestampMs": 9884.0,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 10412.375,
+          "endMs": 10605.666,
+          "timestampMs": 10412.375,
+          "confidence": null
+        },
+        {
+          "text": " correction",
+          "startMs": 10618.541,
+          "endMs": 11108.249,
+          "timestampMs": 10618.541,
+          "confidence": null
+        },
+        {
+          "text": " matters.",
+          "startMs": 11121.125,
+          "endMs": 11713.916,
+          "timestampMs": 11121.125,
+          "confidence": null
+        },
+        {
+          "text": " A",
+          "startMs": 12603.083,
+          "endMs": 12706.166,
+          "timestampMs": 12603.083,
+          "confidence": null
+        },
+        {
+          "text": " useful",
+          "startMs": 12719.083,
+          "endMs": 13118.583,
+          "timestampMs": 12719.083,
+          "confidence": null
+        },
+        {
+          "text": " map",
+          "startMs": 13131.458,
+          "endMs": 13427.833,
+          "timestampMs": 13131.458,
+          "confidence": null
+        },
+        {
+          "text": " should",
+          "startMs": 13440.708,
+          "endMs": 13633.999,
+          "timestampMs": 13440.708,
+          "confidence": null
+        },
+        {
+          "text": " make",
+          "startMs": 13646.916,
+          "endMs": 13840.207,
+          "timestampMs": 13646.916,
+          "confidence": null
+        },
+        {
+          "text": " failed",
+          "startMs": 13853.083,
+          "endMs": 14136.583,
+          "timestampMs": 13853.083,
+          "confidence": null
+        },
+        {
+          "text": " assumptions",
+          "startMs": 14149.5,
+          "endMs": 14729.416,
+          "timestampMs": 14149.5,
+          "confidence": null
+        },
+        {
+          "text": " discoverable,",
+          "startMs": 14742.25,
+          "endMs": 15515.458,
+          "timestampMs": 14742.25,
+          "confidence": null
+        },
+        {
+          "text": " alongside",
+          "startMs": 15773.208,
+          "endMs": 16301.541,
+          "timestampMs": 15773.208,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 16314.416,
+          "endMs": 16417.499,
+          "timestampMs": 16314.416,
+          "confidence": null
+        },
+        {
+          "text": " arguments",
+          "startMs": 16430.416,
+          "endMs": 17010.332,
+          "timestampMs": 16430.416,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 17023.208,
+          "endMs": 17203.624,
+          "timestampMs": 17023.208,
+          "confidence": null
+        },
+        {
+          "text": " survived",
+          "startMs": 17216.5,
+          "endMs": 17654.625,
+          "timestampMs": 17216.5,
+          "confidence": null
+        },
+        {
+          "text": " internal",
+          "startMs": 17667.541,
+          "endMs": 18092.791,
+          "timestampMs": 17667.541,
+          "confidence": null
+        },
+        {
+          "text": " checking.",
+          "startMs": 18105.666,
+          "endMs": 18698.457,
+          "timestampMs": 18105.666,
+          "confidence": null
+        },
+        {
+          "text": " Independent",
+          "startMs": 19587.625,
+          "endMs": 20219.083,
+          "timestampMs": 19587.625,
+          "confidence": null
+        },
+        {
+          "text": " review",
+          "startMs": 20231.958,
+          "endMs": 20670.083,
+          "timestampMs": 20231.958,
+          "confidence": null
+        },
+        {
+          "text": " remains",
+          "startMs": 20683.0,
+          "endMs": 21056.708,
+          "timestampMs": 20683.0,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 21069.583,
+          "endMs": 21121.1239,
+          "timestampMs": 21069.583,
+          "confidence": null
+        },
+        {
+          "text": " separate",
+          "startMs": 21134.0,
+          "endMs": 21533.5,
+          "timestampMs": 21134.0,
+          "confidence": null
+        },
+        {
+          "text": " step.",
+          "startMs": 21546.375,
+          "endMs": 22023.166,
+          "timestampMs": 21546.375,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "frontier",
+      "title": "The current branch has a boundary",
+      "kicker": "PUBLIC SNAPSHOT / REPORTS 423–425",
+      "lines": [
+        "A conditional certificate reduction",
+        "Coefficient bounds and coverage remain open"
+      ],
+      "focus": [
+        "ThetaCubicLocation",
+        "ThetaFirstJet",
+        "ThetaJetWidth",
+        "ThetaDeepExcessOpen",
+        "ThetaLargeOrderOpen"
+      ],
+      "voice": "In the public snapshot, one restricted branch reduces a first coefficient certificate to degree below four d, under explicit hypotheses. Bounds for the actual coefficients remain missing. So does coverage of arbitrary Collatz trajectories. Closing a local branch would be progress, but would not by itself establish the conjecture.",
+      "audioSeconds": 22.656,
+      "durationInFrames": 566,
+      "startFrame": 2959,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " In",
+          "startMs": 101.541,
+          "endMs": 256.166,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 269.083,
+          "endMs": 346.416,
+          "timestampMs": 269.083,
+          "confidence": null
+        },
+        {
+          "text": " public",
+          "startMs": 359.291,
+          "endMs": 720.124,
+          "timestampMs": 359.291,
+          "confidence": null
+        },
+        {
+          "text": " snapshot,",
+          "startMs": 733.0,
+          "endMs": 1416.0,
+          "timestampMs": 733.0,
+          "confidence": null
+        },
+        {
+          "text": " one",
+          "startMs": 1622.166,
+          "endMs": 1841.249,
+          "timestampMs": 1622.166,
+          "confidence": null
+        },
+        {
+          "text": " restricted",
+          "startMs": 1854.125,
+          "endMs": 2343.833,
+          "timestampMs": 1854.125,
+          "confidence": null
+        },
+        {
+          "text": " branch",
+          "startMs": 2356.708,
+          "endMs": 2704.666,
+          "timestampMs": 2356.708,
+          "confidence": null
+        },
+        {
+          "text": " reduces",
+          "startMs": 2717.541,
+          "endMs": 3194.332,
+          "timestampMs": 2717.541,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 3207.208,
+          "endMs": 3271.624,
+          "timestampMs": 3207.208,
+          "confidence": null
+        },
+        {
+          "text": " first",
+          "startMs": 3284.541,
+          "endMs": 3632.499,
+          "timestampMs": 3284.541,
+          "confidence": null
+        },
+        {
+          "text": " coefficient",
+          "startMs": 3645.375,
+          "endMs": 4251.041,
+          "timestampMs": 3645.375,
+          "confidence": null
+        },
+        {
+          "text": " certificate",
+          "startMs": 4263.916,
+          "endMs": 4933.999,
+          "timestampMs": 4263.916,
+          "confidence": null
+        },
+        {
+          "text": " to",
+          "startMs": 4946.916,
+          "endMs": 5037.124,
+          "timestampMs": 4946.916,
+          "confidence": null
+        },
+        {
+          "text": " degree",
+          "startMs": 5050.0,
+          "endMs": 5385.041,
+          "timestampMs": 5050.0,
+          "confidence": null
+        },
+        {
+          "text": " below",
+          "startMs": 5397.958,
+          "endMs": 5758.791,
+          "timestampMs": 5397.958,
+          "confidence": null
+        },
+        {
+          "text": " four",
+          "startMs": 5771.666,
+          "endMs": 6029.416,
+          "timestampMs": 5771.666,
+          "confidence": null
+        },
+        {
+          "text": " d,",
+          "startMs": 6042.25,
+          "endMs": 6415.958,
+          "timestampMs": 6042.25,
+          "confidence": null
+        },
+        {
+          "text": " under",
+          "startMs": 6673.708,
+          "endMs": 6905.666,
+          "timestampMs": 6673.708,
+          "confidence": null
+        },
+        {
+          "text": " explicit",
+          "startMs": 6918.541,
+          "endMs": 7446.874,
+          "timestampMs": 6918.541,
+          "confidence": null
+        },
+        {
+          "text": " hypotheses.",
+          "startMs": 7459.791,
+          "endMs": 8503.624,
+          "timestampMs": 7459.791,
+          "confidence": null
+        },
+        {
+          "text": " Bounds",
+          "startMs": 9394.333,
+          "endMs": 9742.291,
+          "timestampMs": 9394.333,
+          "confidence": null
+        },
+        {
+          "text": " for",
+          "startMs": 9755.166,
+          "endMs": 9858.249,
+          "timestampMs": 9755.166,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 9871.125,
+          "endMs": 9974.208,
+          "timestampMs": 9871.125,
+          "confidence": null
+        },
+        {
+          "text": " actual",
+          "startMs": 9987.125,
+          "endMs": 10412.375,
+          "timestampMs": 9987.125,
+          "confidence": null
+        },
+        {
+          "text": " coefficients",
+          "startMs": 10425.25,
+          "endMs": 11159.791,
+          "timestampMs": 10425.25,
+          "confidence": null
+        },
+        {
+          "text": " remain",
+          "startMs": 11172.666,
+          "endMs": 11494.832,
+          "timestampMs": 11172.666,
+          "confidence": null
+        },
+        {
+          "text": " missing.",
+          "startMs": 11507.75,
+          "endMs": 12061.875,
+          "timestampMs": 11507.75,
+          "confidence": null
+        },
+        {
+          "text": " So",
+          "startMs": 12951.041,
+          "endMs": 13208.791,
+          "timestampMs": 12951.041,
+          "confidence": null
+        },
+        {
+          "text": " does",
+          "startMs": 13221.666,
+          "endMs": 13414.957,
+          "timestampMs": 13221.666,
+          "confidence": null
+        },
+        {
+          "text": " coverage",
+          "startMs": 13427.833,
+          "endMs": 13840.208,
+          "timestampMs": 13427.833,
+          "confidence": null
+        },
+        {
+          "text": " of",
+          "startMs": 13853.083,
+          "endMs": 13930.416,
+          "timestampMs": 13853.083,
+          "confidence": null
+        },
+        {
+          "text": " arbitrary",
+          "startMs": 13943.291,
+          "endMs": 14523.207,
+          "timestampMs": 13943.291,
+          "confidence": null
+        },
+        {
+          "text": " Collatz",
+          "startMs": 14536.083,
+          "endMs": 14974.208,
+          "timestampMs": 14536.083,
+          "confidence": null
+        },
+        {
+          "text": " trajectories.",
+          "startMs": 14987.125,
+          "endMs": 15914.958,
+          "timestampMs": 14987.125,
+          "confidence": null
+        },
+        {
+          "text": " Closing",
+          "startMs": 16804.125,
+          "endMs": 17216.5,
+          "timestampMs": 16804.125,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 17229.375,
+          "endMs": 17280.9159,
+          "timestampMs": 17229.375,
+          "confidence": null
+        },
+        {
+          "text": " local",
+          "startMs": 17293.833,
+          "endMs": 17641.791,
+          "timestampMs": 17293.833,
+          "confidence": null
+        },
+        {
+          "text": " branch",
+          "startMs": 17654.625,
+          "endMs": 18028.333,
+          "timestampMs": 17654.625,
+          "confidence": null
+        },
+        {
+          "text": " would",
+          "startMs": 18041.25,
+          "endMs": 18157.25,
+          "timestampMs": 18041.25,
+          "confidence": null
+        },
+        {
+          "text": " be",
+          "startMs": 18170.083,
+          "endMs": 18286.083,
+          "timestampMs": 18170.083,
+          "confidence": null
+        },
+        {
+          "text": " progress,",
+          "startMs": 18298.958,
+          "endMs": 19007.708,
+          "timestampMs": 18298.958,
+          "confidence": null
+        },
+        {
+          "text": " but",
+          "startMs": 19201.041,
+          "endMs": 19342.791,
+          "timestampMs": 19201.041,
+          "confidence": null
+        },
+        {
+          "text": " would",
+          "startMs": 19355.666,
+          "endMs": 19484.541,
+          "timestampMs": 19355.666,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 19497.416,
+          "endMs": 19716.499,
+          "timestampMs": 19497.416,
+          "confidence": null
+        },
+        {
+          "text": " by",
+          "startMs": 19729.375,
+          "endMs": 19871.125,
+          "timestampMs": 19729.375,
+          "confidence": null
+        },
+        {
+          "text": " itself",
+          "startMs": 19884.0,
+          "endMs": 20257.708,
+          "timestampMs": 19884.0,
+          "confidence": null
+        },
+        {
+          "text": " establish",
+          "startMs": 20270.625,
+          "endMs": 20824.75,
+          "timestampMs": 20270.625,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 20837.625,
+          "endMs": 20940.708,
+          "timestampMs": 20837.625,
+          "confidence": null
+        },
+        {
+          "text": " conjecture.",
+          "startMs": 20953.625,
+          "endMs": 21765.5,
+          "timestampMs": 20953.625,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "Choose a node. Challenge a step.",
+      "kicker": "OPEN MATERIALS / INDEPENDENT REVIEW",
+      "lines": [
+        "Explore the map · inspect the assumptions",
+        "GERO · GitHub · Zenodo · LinkedIn"
+      ],
+      "focus": [
+        "Descent",
+        "Full"
+      ],
+      "voice": "One sufficient route is universal descent: every odd start greater than one must eventually fall below itself. We have not proved that statement. We are Khamit Kadyrbekov and his son, Daniyal Kadirbekov. We have been working on this project for several months with artificial intelligence assistance. Explore the map and leave a specific correction, missing assumption, or relevant source.",
+      "audioSeconds": 25.92,
+      "durationInFrames": 644,
+      "startFrame": 3525,
+      "audioOffsetFrames": 8,
+      "captions": [
+        {
+          "text": " One",
+          "startMs": 101.541,
+          "endMs": 372.166,
+          "timestampMs": 101.541,
+          "confidence": null
+        },
+        {
+          "text": " sufficient",
+          "startMs": 385.041,
+          "endMs": 874.749,
+          "timestampMs": 385.041,
+          "confidence": null
+        },
+        {
+          "text": " route",
+          "startMs": 887.625,
+          "endMs": 1158.25,
+          "timestampMs": 887.625,
+          "confidence": null
+        },
+        {
+          "text": " is",
+          "startMs": 1171.125,
+          "endMs": 1300.0,
+          "timestampMs": 1171.125,
+          "confidence": null
+        },
+        {
+          "text": " universal",
+          "startMs": 1312.875,
+          "endMs": 1828.333,
+          "timestampMs": 1312.875,
+          "confidence": null
+        },
+        {
+          "text": " descent:",
+          "startMs": 1841.25,
+          "endMs": 2382.5,
+          "timestampMs": 1841.25,
+          "confidence": null
+        },
+        {
+          "text": " every",
+          "startMs": 2614.416,
+          "endMs": 2872.166,
+          "timestampMs": 2614.416,
+          "confidence": null
+        },
+        {
+          "text": " odd",
+          "startMs": 2885.041,
+          "endMs": 3116.999,
+          "timestampMs": 2885.041,
+          "confidence": null
+        },
+        {
+          "text": " start",
+          "startMs": 3129.916,
+          "endMs": 3426.291,
+          "timestampMs": 3129.916,
+          "confidence": null
+        },
+        {
+          "text": " greater",
+          "startMs": 3439.166,
+          "endMs": 3787.124,
+          "timestampMs": 3439.166,
+          "confidence": null
+        },
+        {
+          "text": " than",
+          "startMs": 3800.0,
+          "endMs": 3967.541,
+          "timestampMs": 3800.0,
+          "confidence": null
+        },
+        {
+          "text": " one",
+          "startMs": 3980.416,
+          "endMs": 4212.374,
+          "timestampMs": 3980.416,
+          "confidence": null
+        },
+        {
+          "text": " must",
+          "startMs": 4225.25,
+          "endMs": 4495.875,
+          "timestampMs": 4225.25,
+          "confidence": null
+        },
+        {
+          "text": " eventually",
+          "startMs": 4508.75,
+          "endMs": 5011.333,
+          "timestampMs": 4508.75,
+          "confidence": null
+        },
+        {
+          "text": " fall",
+          "startMs": 5024.208,
+          "endMs": 5281.958,
+          "timestampMs": 5024.208,
+          "confidence": null
+        },
+        {
+          "text": " below",
+          "startMs": 5294.833,
+          "endMs": 5578.333,
+          "timestampMs": 5294.833,
+          "confidence": null
+        },
+        {
+          "text": " itself.",
+          "startMs": 5591.25,
+          "endMs": 6235.583,
+          "timestampMs": 5591.25,
+          "confidence": null
+        },
+        {
+          "text": " We",
+          "startMs": 7126.291,
+          "endMs": 7280.916,
+          "timestampMs": 7126.291,
+          "confidence": null
+        },
+        {
+          "text": " have",
+          "startMs": 7293.833,
+          "endMs": 7422.708,
+          "timestampMs": 7293.833,
+          "confidence": null
+        },
+        {
+          "text": " not",
+          "startMs": 7435.583,
+          "endMs": 7654.666,
+          "timestampMs": 7435.583,
+          "confidence": null
+        },
+        {
+          "text": " proved",
+          "startMs": 7667.541,
+          "endMs": 7938.166,
+          "timestampMs": 7667.541,
+          "confidence": null
+        },
+        {
+          "text": " that",
+          "startMs": 7951.041,
+          "endMs": 8157.207,
+          "timestampMs": 7951.041,
+          "confidence": null
+        },
+        {
+          "text": " statement.",
+          "startMs": 8170.083,
+          "endMs": 8827.291,
+          "timestampMs": 8170.083,
+          "confidence": null
+        },
+        {
+          "text": " We",
+          "startMs": 9716.5,
+          "endMs": 9896.916,
+          "timestampMs": 9716.5,
+          "confidence": null
+        },
+        {
+          "text": " are",
+          "startMs": 9909.791,
+          "endMs": 10025.791,
+          "timestampMs": 9909.791,
+          "confidence": null
+        },
+        {
+          "text": " Khamit",
+          "startMs": 10038.666,
+          "endMs": 10386.624,
+          "timestampMs": 10038.666,
+          "confidence": null
+        },
+        {
+          "text": " Kadyrbekov",
+          "startMs": 10399.5,
+          "endMs": 11069.583,
+          "timestampMs": 10399.5,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 11082.458,
+          "endMs": 11172.666,
+          "timestampMs": 11082.458,
+          "confidence": null
+        },
+        {
+          "text": " his",
+          "startMs": 11185.583,
+          "endMs": 11314.458,
+          "timestampMs": 11185.583,
+          "confidence": null
+        },
+        {
+          "text": " son,",
+          "startMs": 11327.333,
+          "endMs": 11726.833,
+          "timestampMs": 11327.333,
+          "confidence": null
+        },
+        {
+          "text": " Daniyal",
+          "startMs": 11907.208,
+          "endMs": 12358.249,
+          "timestampMs": 11907.208,
+          "confidence": null
+        },
+        {
+          "text": " Kadirbekov.",
+          "startMs": 12371.125,
+          "endMs": 13260.291,
+          "timestampMs": 12371.125,
+          "confidence": null
+        },
+        {
+          "text": " We",
+          "startMs": 14149.5,
+          "endMs": 14317.041,
+          "timestampMs": 14149.5,
+          "confidence": null
+        },
+        {
+          "text": " have",
+          "startMs": 14329.875,
+          "endMs": 14445.875,
+          "timestampMs": 14329.875,
+          "confidence": null
+        },
+        {
+          "text": " been",
+          "startMs": 14458.75,
+          "endMs": 14639.166,
+          "timestampMs": 14458.75,
+          "confidence": null
+        },
+        {
+          "text": " working",
+          "startMs": 14652.041,
+          "endMs": 15038.624,
+          "timestampMs": 14652.041,
+          "confidence": null
+        },
+        {
+          "text": " on",
+          "startMs": 15051.541,
+          "endMs": 15154.624,
+          "timestampMs": 15051.541,
+          "confidence": null
+        },
+        {
+          "text": " this",
+          "startMs": 15167.541,
+          "endMs": 15347.957,
+          "timestampMs": 15167.541,
+          "confidence": null
+        },
+        {
+          "text": " project",
+          "startMs": 15360.833,
+          "endMs": 15927.833,
+          "timestampMs": 15360.833,
+          "confidence": null
+        },
+        {
+          "text": " for",
+          "startMs": 15940.708,
+          "endMs": 16095.333,
+          "timestampMs": 15940.708,
+          "confidence": null
+        },
+        {
+          "text": " several",
+          "startMs": 16108.25,
+          "endMs": 16469.083,
+          "timestampMs": 16108.25,
+          "confidence": null
+        },
+        {
+          "text": " months",
+          "startMs": 16481.958,
+          "endMs": 16881.458,
+          "timestampMs": 16481.958,
+          "confidence": null
+        },
+        {
+          "text": " with",
+          "startMs": 16894.333,
+          "endMs": 17048.958,
+          "timestampMs": 16894.333,
+          "confidence": null
+        },
+        {
+          "text": " artificial",
+          "startMs": 17061.833,
+          "endMs": 17641.749,
+          "timestampMs": 17061.833,
+          "confidence": null
+        },
+        {
+          "text": " intelligence",
+          "startMs": 17654.625,
+          "endMs": 18273.166,
+          "timestampMs": 17654.625,
+          "confidence": null
+        },
+        {
+          "text": " assistance.",
+          "startMs": 18286.083,
+          "endMs": 19097.958,
+          "timestampMs": 18286.083,
+          "confidence": null
+        },
+        {
+          "text": " Explore",
+          "startMs": 19987.125,
+          "endMs": 20463.916,
+          "timestampMs": 19987.125,
+          "confidence": null
+        },
+        {
+          "text": " the",
+          "startMs": 20476.791,
+          "endMs": 20566.999,
+          "timestampMs": 20476.791,
+          "confidence": null
+        },
+        {
+          "text": " map",
+          "startMs": 20579.875,
+          "endMs": 20902.041,
+          "timestampMs": 20579.875,
+          "confidence": null
+        },
+        {
+          "text": " and",
+          "startMs": 20914.958,
+          "endMs": 21043.833,
+          "timestampMs": 20914.958,
+          "confidence": null
+        },
+        {
+          "text": " leave",
+          "startMs": 21056.708,
+          "endMs": 21211.333,
+          "timestampMs": 21056.708,
+          "confidence": null
+        },
+        {
+          "text": " a",
+          "startMs": 21224.208,
+          "endMs": 21288.624,
+          "timestampMs": 21224.208,
+          "confidence": null
+        },
+        {
+          "text": " specific",
+          "startMs": 21301.541,
+          "endMs": 21829.874,
+          "timestampMs": 21301.541,
+          "confidence": null
+        },
+        {
+          "text": " correction,",
+          "startMs": 21842.791,
+          "endMs": 22461.332,
+          "timestampMs": 21842.791,
+          "confidence": null
+        },
+        {
+          "text": " missing",
+          "startMs": 22641.75,
+          "endMs": 22976.791,
+          "timestampMs": 22641.75,
+          "confidence": null
+        },
+        {
+          "text": " assumption,",
+          "startMs": 22989.708,
+          "endMs": 23646.916,
+          "timestampMs": 22989.708,
+          "confidence": null
+        },
+        {
+          "text": " or",
+          "startMs": 23814.416,
+          "endMs": 23956.166,
+          "timestampMs": 23814.416,
+          "confidence": null
+        },
+        {
+          "text": " relevant",
+          "startMs": 23969.083,
+          "endMs": 24394.333,
+          "timestampMs": 23969.083,
+          "confidence": null
+        },
+        {
+          "text": " source.",
+          "startMs": 24407.208,
+          "endMs": 25012.874,
+          "timestampMs": 24407.208,
+          "confidence": null
+        }
+      ]
+    }
+  ]
+}

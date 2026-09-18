@@ -1,0 +1,320 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 1804160,
+    "text": "Our"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2948330,
+    "duration": 3865830,
+    "text": "colours"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 6943330,
+    "duration": 4510410,
+    "text": "describe"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11582500,
+    "duration": 7732080,
+    "text": "categories"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 21247500,
+    "duration": 2190830,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23567080,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 24211250,
+    "duration": 6830000,
+    "text": "probability"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31170000,
+    "duration": 1675410,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32974160,
+    "duration": 4381250,
+    "text": "Collatz"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 37484580,
+    "duration": 1160000,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38773330,
+    "duration": 5670000,
+    "text": "solved"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53350410,
+    "duration": 2190830,
+    "text": "Blue"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55670000,
+    "duration": 3479580,
+    "text": "marks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 59278330,
+    "duration": 5412500,
+    "text": "internally"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64819580,
+    "duration": 3221660,
+    "text": "checked"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 68170000,
+    "duration": 5541250,
+    "text": "arguments"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73840000,
+    "duration": 2706250,
+    "text": "within"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76675410,
+    "duration": 1288750,
+    "text": "their"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78092910,
+    "duration": 3608330,
+    "text": "stated"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81830000,
+    "duration": 8762910,
+    "text": "assumptions"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99484580,
+    "duration": 4381250,
+    "text": "Cyan"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103995000,
+    "duration": 6700830,
+    "text": "identifies"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110824580,
+    "duration": 4639160,
+    "text": "selected"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115592910,
+    "duration": 4510410,
+    "text": "published"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 120232080,
+    "duration": 8376250,
+    "text": "references"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 137500000,
+    "duration": 3221660,
+    "text": "Amber"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 140850410,
+    "duration": 3350410,
+    "text": "marks"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144330000,
+    "duration": 2448330,
+    "text": "open"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 146907080,
+    "duration": 9665000,
+    "text": "obligations"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 165463750,
+    "duration": 2577500,
+    "text": "This"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168170000,
+    "duration": 1030830,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169330000,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 169974160,
+    "duration": 7216660,
+    "text": "navigation"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 177319580,
+    "duration": 4897080,
+    "text": "layout"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 184407080,
+    "duration": 2190830,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 186726660,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 187242080,
+    "duration": 7087500,
+    "text": "mathematical"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 194458750,
+    "duration": 5412500,
+    "text": "distance"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 200000000,
+    "duration": 2061660,
+    "text": "or"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 202190830,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 202835000,
+    "duration": 3479580,
+    "text": "formal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 206443330,
+    "duration": 2577500,
+    "text": "proof"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 209149580,
+    "duration": 5799160,
+    "text": "graph"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 223840000,
+    "duration": 1417500,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 225386660,
+    "duration": 2706250,
+    "text": "data"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 228221660,
+    "duration": 5927910,
+    "text": "snapshot"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 234278330,
+    "duration": 1160000,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 235567080,
+    "duration": 1546250,
+    "text": "from"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 237242080,
+    "duration": 5025830,
+    "text": "September"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 242397080,
+    "duration": 6830000,
+    "text": "sixteenth"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 250386660,
+    "duration": 2835000,
+    "text": "twenty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 253350410,
+    "duration": 3092910,
+    "text": "twenty"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 256572080,
+    "duration": 6185410,
+    "text": "six"
+  }
+]

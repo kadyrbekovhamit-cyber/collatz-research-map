@@ -1,0 +1,189 @@
+WEBVTT
+
+1
+00:00:00.435 --> 00:00:03.966
+What would a mathematical research project look like as a three dimensional
+
+2
+00:00:03.979 --> 00:00:04.391
+map?
+
+3
+00:00:05.282 --> 00:00:09.431
+This is GERO's public Collatz research snapshot: three hundred fifty six
+
+4
+00:00:09.444 --> 00:00:12.988
+nodes, connected by five hundred thirty two relationships.
+
+5
+00:00:13.877 --> 00:00:17.601
+Rotate it, inspect an argument, and see where a route stops.
+
+6
+00:00:18.491 --> 00:00:21.016
+The full Collatz conjecture remains unproved.
+
+7
+00:00:22.935 --> 00:00:27.368
+The rule is simple: halve an even number; multiply an odd number by three and
+
+8
+00:00:27.381 --> 00:00:28.012
+add one.
+
+9
+00:00:28.903 --> 00:00:31.570
+The claim is that every positive start reaches one.
+
+10
+00:00:32.460 --> 00:00:36.558
+Terras and Everett established almost everywhere descent in natural density.
+
+11
+00:00:37.447 --> 00:00:40.733
+Bernstein and Lagarias developed exact two adic coding.
+
+12
+00:00:41.622 --> 00:00:45.411
+These achievements explain structure, while leaving the universal question
+
+13
+00:00:45.424 --> 00:00:45.887
+open.
+
+14
+00:00:47.810 --> 00:00:50.658
+Terence Tao's major advance controls orbit minima.
+
+15
+00:00:51.549 --> 00:00:55.956
+For any bound tending to infinity, however slowly, almost every start
+
+16
+00:00:55.969 --> 00:00:59.358
+eventually falls below that bound, in logarithmic density.
+
+17
+00:01:00.247 --> 00:01:03.043
+This does not establish that every start reaches one.
+
+18
+00:01:03.933 --> 00:01:07.618
+A map must keep that distinction visible: an impressive theorem and a
+
+19
+00:01:07.631 --> 00:01:09.860
+complete solution are different claims.
+
+20
+00:01:11.810 --> 00:01:16.153
+Our colours describe categories, not a probability that Collatz is solved.
+
+21
+00:01:17.043 --> 00:01:20.768
+Blue marks internally checked arguments within their stated assumptions.
+
+22
+00:01:21.657 --> 00:01:24.569
+Cyan identifies selected published references.
+
+23
+00:01:25.458 --> 00:01:27.366
+Amber marks open obligations.
+
+24
+00:01:28.255 --> 00:01:32.610
+This is a navigation layout, not a mathematical distance or a formal proof
+
+25
+00:01:32.623 --> 00:01:33.203
+graph.
+
+26
+00:01:34.092 --> 00:01:37.984
+The data snapshot is from September sixteenth, twenty twenty six.
+
+27
+00:01:39.893 --> 00:01:42.367
+Research history also includes corrections.
+
+28
+00:01:43.258 --> 00:01:47.085
+The coral node records an error in an earlier route: a proposed common
+
+29
+00:01:47.098 --> 00:01:48.786
+infimum gap could not hold.
+
+30
+00:01:49.676 --> 00:01:51.506
+Preserving that correction matters.
+
+31
+00:01:52.395 --> 00:01:56.209
+A useful map should make failed assumptions discoverable, alongside the
+
+32
+00:01:56.222 --> 00:01:58.490
+arguments that survived internal checking.
+
+33
+00:01:59.379 --> 00:02:01.815
+Independent review remains a separate step.
+
+34
+00:02:03.727 --> 00:02:07.876
+In the public snapshot, one restricted branch reduces a first coefficient
+
+35
+00:02:07.889 --> 00:02:12.129
+certificate to degree below four d, under explicit hypotheses.
+
+36
+00:02:13.019 --> 00:02:15.687
+Bounds for the actual coefficients remain missing.
+
+37
+00:02:16.576 --> 00:02:19.540
+So does coverage of arbitrary Collatz trajectories.
+
+38
+00:02:20.429 --> 00:02:24.450
+Closing a local branch would be progress, but would not by itself establish
+
+39
+00:02:24.463 --> 00:02:25.390
+the conjecture.
+
+40
+00:02:27.310 --> 00:02:31.421
+One sufficient route is universal descent: every odd start greater than one
+
+41
+00:02:31.434 --> 00:02:33.444
+must eventually fall below itself.
+
+42
+00:02:34.335 --> 00:02:36.036
+We have not proved that statement.
+
+43
+00:02:36.925 --> 00:02:40.469
+We are Khamit Kadyrbekov and his son, Daniyal Kadirbekov.
+
+44
+00:02:41.358 --> 00:02:44.850
+We have been working on this project for several months with artificial
+
+45
+00:02:44.863 --> 00:02:46.306
+intelligence assistance.
+
+46
+00:02:47.195 --> 00:02:51.164
+Explore the map and leave a specific correction, missing assumption, or
+
+47
+00:02:51.177 --> 00:02:52.221
+relevant source.

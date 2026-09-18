@@ -1,0 +1,290 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 4639160,
+    "text": "Research"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 5783330,
+    "duration": 4123750,
+    "text": "history"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 10036250,
+    "duration": 3092910,
+    "text": "also"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13257910,
+    "duration": 3995000,
+    "text": "includes"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 17381250,
+    "duration": 8376250,
+    "text": "corrections"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34665000,
+    "duration": 1417500,
+    "text": "The"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36211250,
+    "duration": 3221660,
+    "text": "coral"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39561660,
+    "duration": 2448330,
+    "text": "node"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42139160,
+    "duration": 3737080,
+    "text": "records"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 46005000,
+    "duration": 1675410,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 47809160,
+    "duration": 2963750,
+    "text": "error"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50902080,
+    "duration": 1288750,
+    "text": "in"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52319580,
+    "duration": 1160000,
+    "text": "an"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53608330,
+    "duration": 4123750,
+    "text": "earlier"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57860830,
+    "duration": 3995000,
+    "text": "route"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64046250,
+    "duration": 386659,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 64561660,
+    "duration": 4897080,
+    "text": "proposed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69587500,
+    "duration": 3350410,
+    "text": "common"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 73067080,
+    "duration": 4897080,
+    "text": "infimum"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 78092910,
+    "duration": 3350410,
+    "text": "gap"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81572080,
+    "duration": 1417500,
+    "text": "could"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 83118750,
+    "duration": 1932910,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 85180410,
+    "duration": 4767910,
+    "text": "hold"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98840000,
+    "duration": 5154580,
+    "text": "Preserving"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104123750,
+    "duration": 1932910,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 106185410,
+    "duration": 4897080,
+    "text": "correction"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111211250,
+    "duration": 5927910,
+    "text": "matters"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 126030830,
+    "duration": 1030830,
+    "text": "A"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 127190830,
+    "duration": 3995000,
+    "text": "useful"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 131314580,
+    "duration": 2963750,
+    "text": "map"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134407080,
+    "duration": 1932910,
+    "text": "should"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 136469160,
+    "duration": 1932910,
+    "text": "make"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138530830,
+    "duration": 2835000,
+    "text": "failed"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141495000,
+    "duration": 5799160,
+    "text": "assumptions"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 147422500,
+    "duration": 7732080,
+    "text": "discoverable"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 157732080,
+    "duration": 5283330,
+    "text": "alongside"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 163144160,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 164304160,
+    "duration": 5799160,
+    "text": "arguments"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 170232080,
+    "duration": 1804160,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172165000,
+    "duration": 4381250,
+    "text": "survived"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 176675410,
+    "duration": 4252500,
+    "text": "internal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181056660,
+    "duration": 5927910,
+    "text": "checking"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 195876250,
+    "duration": 6314580,
+    "text": "Independent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 202319580,
+    "duration": 4381250,
+    "text": "review"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 206830000,
+    "duration": 3737080,
+    "text": "remains"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 210695830,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 211340000,
+    "duration": 3995000,
+    "text": "separate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 215463750,
+    "duration": 4767910,
+    "text": "step"
+  }
+]

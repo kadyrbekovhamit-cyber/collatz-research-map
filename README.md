@@ -6,6 +6,13 @@ An English, rotatable 3D research map and a four-minute narrated explanation.
 Authors: **Khamit Kadyrbekov and Daniyal Kadirbekov**.
 Snapshot: 16 September 2026. AI assistance is disclosed in the source notes.
 
+## Colour tour — 18 September 2026
+
+[Explore the new colour map and rotating narrated video](https://kadyrbekovhamit-cyber.github.io/collatz-research-map/tour/).
+Khamit Kadyrbekov and his son Daniyal Kadirbekov have worked for several months with AI assistance. Blue highlights internally checked work within its stated assumptions; cyan selected published references; amber open obligations; coral a documented correction. Colours do not measure confidence, novelty, external review or percentage solved.
+
+This is a new presentation of the original 16 September snapshot, not a new mathematical result. The original map, archive and video below are preserved. Production sources are in [production/colour-tour-2026-09-18](production/colour-tour-2026-09-18/).
+
 [Watch the English explainer on YouTube](https://youtu.be/Xmxrv8oOIls) (4:02, English subtitles).
 
 [Archived release on Zenodo](https://doi.org/10.5281/zenodo.22801404) · [Hugging Face report and media](https://huggingface.co/datasets/XamitK/gero-research-evidence-2026-09/blob/main/collatz-research-map.md).

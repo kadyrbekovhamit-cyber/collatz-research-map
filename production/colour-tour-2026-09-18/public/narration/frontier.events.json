@@ -1,0 +1,296 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 1546250,
+    "text": "In"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 2690830,
+    "duration": 773330,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3592910,
+    "duration": 3608330,
+    "text": "public"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 7330000,
+    "duration": 6830000,
+    "text": "snapshot"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 16221660,
+    "duration": 2190830,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18541250,
+    "duration": 4897080,
+    "text": "restricted"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 23567080,
+    "duration": 3479580,
+    "text": "branch"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 27175410,
+    "duration": 4767910,
+    "text": "reduces"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32072080,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 32845410,
+    "duration": 3479580,
+    "text": "first"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 36453750,
+    "duration": 6056660,
+    "text": "coefficient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42639160,
+    "duration": 6700830,
+    "text": "certificate"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 49469160,
+    "duration": 902080,
+    "text": "to"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50500000,
+    "duration": 3350410,
+    "text": "degree"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 53979580,
+    "duration": 3608330,
+    "text": "below"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 57716660,
+    "duration": 2577500,
+    "text": "four"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 60422500,
+    "duration": 3737080,
+    "text": "d"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 66737080,
+    "duration": 2319580,
+    "text": "under"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 69185410,
+    "duration": 5283330,
+    "text": "explicit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74597910,
+    "duration": 10438330,
+    "text": "hypotheses"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 93943330,
+    "duration": 3479580,
+    "text": "Bounds"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97551660,
+    "duration": 1030830,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 98711250,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99871250,
+    "duration": 4252500,
+    "text": "actual"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 104252500,
+    "duration": 7345410,
+    "text": "coefficients"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111726660,
+    "duration": 3221660,
+    "text": "remain"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 115077500,
+    "duration": 5541250,
+    "text": "missing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 129510410,
+    "duration": 2577500,
+    "text": "So"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 132216660,
+    "duration": 1932910,
+    "text": "does"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 134278330,
+    "duration": 4123750,
+    "text": "coverage"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 138530830,
+    "duration": 773330,
+    "text": "of"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 139432910,
+    "duration": 5799160,
+    "text": "arbitrary"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 145360830,
+    "duration": 4381250,
+    "text": "Collatz"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 149871250,
+    "duration": 9278330,
+    "text": "trajectories"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168041250,
+    "duration": 4123750,
+    "text": "Closing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172293750,
+    "duration": 515409,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 172938330,
+    "duration": 3479580,
+    "text": "local"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 176546250,
+    "duration": 3737080,
+    "text": "branch"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 180412500,
+    "duration": 1160000,
+    "text": "would"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 181700830,
+    "duration": 1160000,
+    "text": "be"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 182989580,
+    "duration": 7087500,
+    "text": "progress"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 192010410,
+    "duration": 1417500,
+    "text": "but"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 193556660,
+    "duration": 1288750,
+    "text": "would"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 194974160,
+    "duration": 2190830,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 197293750,
+    "duration": 1417500,
+    "text": "by"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 198840000,
+    "duration": 3737080,
+    "text": "itself"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 202706250,
+    "duration": 5541250,
+    "text": "establish"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 208376250,
+    "duration": 1030830,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 209536250,
+    "duration": 8118750,
+    "text": "conjecture"
+  }
+]

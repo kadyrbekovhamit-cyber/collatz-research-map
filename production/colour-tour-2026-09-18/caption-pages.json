@@ -1,0 +1,237 @@
+[
+  {
+    "text": "What would a mathematical research project look like as a three dimensional",
+    "startMs": 434.8743333333333,
+    "endMs": 3965.7913333333336
+  },
+  {
+    "text": "map?",
+    "startMs": 3978.7083333333335,
+    "endMs": 4391.083333333333
+  },
+  {
+    "text": "This is GERO's public Collatz research snapshot: three hundred fifty six",
+    "startMs": 5281.791333333333,
+    "endMs": 9431.290333333334
+  },
+  {
+    "text": "nodes, connected by five hundred thirty two relationships.",
+    "startMs": 9444.166333333334,
+    "endMs": 12987.957333333334
+  },
+  {
+    "text": "Rotate it, inspect an argument, and see where a route stops.",
+    "startMs": 13877.166333333334,
+    "endMs": 17601.374333333333
+  },
+  {
+    "text": "The full Collatz conjecture remains unproved.",
+    "startMs": 18490.54133333333,
+    "endMs": 21016.333333333332
+  },
+  {
+    "text": "The rule is simple: halve an even number; multiply an odd number by three and",
+    "startMs": 22934.874333333333,
+    "endMs": 27367.874333333333
+  },
+  {
+    "text": "add one.",
+    "startMs": 27380.749333333333,
+    "endMs": 28012.208333333332
+  },
+  {
+    "text": "The claim is that every positive start reaches one.",
+    "startMs": 28902.91633333333,
+    "endMs": 31570.416333333334
+  },
+  {
+    "text": "Terras and Everett established almost everywhere descent in natural density.",
+    "startMs": 32459.624333333333,
+    "endMs": 36557.54033333333
+  },
+  {
+    "text": "Bernstein and Lagarias developed exact two adic coding.",
+    "startMs": 37446.74933333333,
+    "endMs": 40732.83233333333
+  },
+  {
+    "text": "These achievements explain structure, while leaving the universal question",
+    "startMs": 41621.99933333333,
+    "endMs": 45410.66533333333
+  },
+  {
+    "text": "open.",
+    "startMs": 45423.54133333333,
+    "endMs": 45887.45733333333
+  },
+  {
+    "text": "Terence Tao's major advance controls orbit minima.",
+    "startMs": 47809.87433333333,
+    "endMs": 50657.791333333334
+  },
+  {
+    "text": "For any bound tending to infinity, however slowly, almost every start",
+    "startMs": 51548.541333333334,
+    "endMs": 55955.74933333333
+  },
+  {
+    "text": "eventually falls below that bound, in logarithmic density.",
+    "startMs": 55968.62433333333,
+    "endMs": 59357.83233333334
+  },
+  {
+    "text": "This does not establish that every start reaches one.",
+    "startMs": 60246.99933333333,
+    "endMs": 63043.37433333333
+  },
+  {
+    "text": "A map must keep that distinction visible: an impressive theorem and a",
+    "startMs": 63932.541333333334,
+    "endMs": 67618.12423333334
+  },
+  {
+    "text": "complete solution are different claims.",
+    "startMs": 67630.99933333334,
+    "endMs": 69860.41633333333
+  },
+  {
+    "text": "Our colours describe categories, not a probability that Collatz is solved.",
+    "startMs": 71809.87433333333,
+    "endMs": 76152.66633333333
+  },
+  {
+    "text": "Blue marks internally checked arguments within their stated assumptions.",
+    "startMs": 77043.37433333333,
+    "endMs": 80767.62433333333
+  },
+  {
+    "text": "Cyan identifies selected published references.",
+    "startMs": 81656.79133333333,
+    "endMs": 84569.16633333333
+  },
+  {
+    "text": "Amber marks open obligations.",
+    "startMs": 85458.33333333333,
+    "endMs": 87365.54133333333
+  },
+  {
+    "text": "This is a navigation layout, not a mathematical distance or a formal proof",
+    "startMs": 88254.70833333333,
+    "endMs": 92610.41633333333
+  },
+  {
+    "text": "graph.",
+    "startMs": 92623.29133333333,
+    "endMs": 93203.20733333332
+  },
+  {
+    "text": "The data snapshot is from September sixteenth, twenty twenty six.",
+    "startMs": 94092.33333333333,
+    "endMs": 97984.08233333332
+  },
+  {
+    "text": "Research history also includes corrections.",
+    "startMs": 99893.20766666667,
+    "endMs": 102367.41666666667
+  },
+  {
+    "text": "The coral node records an error in an earlier route: a proposed common",
+    "startMs": 103258.16666666667,
+    "endMs": 107085.45766666667
+  },
+  {
+    "text": "infimum gap could not hold.",
+    "startMs": 107098.37466666667,
+    "endMs": 108786.49866666667
+  },
+  {
+    "text": "Preserving that correction matters.",
+    "startMs": 109675.66666666667,
+    "endMs": 111505.58266666667
+  },
+  {
+    "text": "A useful map should make failed assumptions discoverable, alongside the",
+    "startMs": 112394.74966666667,
+    "endMs": 116209.16566666667
+  },
+  {
+    "text": "arguments that survived internal checking.",
+    "startMs": 116222.08266666667,
+    "endMs": 118490.12366666667
+  },
+  {
+    "text": "Independent review remains a separate step.",
+    "startMs": 119379.29166666667,
+    "endMs": 121814.83266666667
+  },
+  {
+    "text": "In the public snapshot, one restricted branch reduces a first coefficient",
+    "startMs": 123726.541,
+    "endMs": 127876.041
+  },
+  {
+    "text": "certificate to degree below four d, under explicit hypotheses.",
+    "startMs": 127888.916,
+    "endMs": 132128.624
+  },
+  {
+    "text": "Bounds for the actual coefficients remain missing.",
+    "startMs": 133019.333,
+    "endMs": 135686.875
+  },
+  {
+    "text": "So does coverage of arbitrary Collatz trajectories.",
+    "startMs": 136576.041,
+    "endMs": 139539.958
+  },
+  {
+    "text": "Closing a local branch would be progress, but would not by itself establish",
+    "startMs": 140429.125,
+    "endMs": 144449.75
+  },
+  {
+    "text": "the conjecture.",
+    "startMs": 144462.625,
+    "endMs": 145390.5
+  },
+  {
+    "text": "One sufficient route is universal descent: every odd start greater than one",
+    "startMs": 147309.87433333334,
+    "endMs": 151420.70733333335
+  },
+  {
+    "text": "must eventually fall below itself.",
+    "startMs": 151433.58333333334,
+    "endMs": 153443.91633333336
+  },
+  {
+    "text": "We have not proved that statement.",
+    "startMs": 154334.62433333334,
+    "endMs": 156035.62433333334
+  },
+  {
+    "text": "We are Khamit Kadyrbekov and his son, Daniyal Kadirbekov.",
+    "startMs": 156924.83333333334,
+    "endMs": 160468.62433333334
+  },
+  {
+    "text": "We have been working on this project for several months with artificial",
+    "startMs": 161357.83333333334,
+    "endMs": 164850.08233333335
+  },
+  {
+    "text": "intelligence assistance.",
+    "startMs": 164862.95833333334,
+    "endMs": 166306.29133333336
+  },
+  {
+    "text": "Explore the map and leave a specific correction, missing assumption, or",
+    "startMs": 167195.45833333334,
+    "endMs": 171164.49933333334
+  },
+  {
+    "text": "relevant source.",
+    "startMs": 171177.41633333336,
+    "endMs": 172221.20733333335
+  }
+]

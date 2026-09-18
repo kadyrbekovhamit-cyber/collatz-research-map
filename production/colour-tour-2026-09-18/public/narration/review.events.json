@@ -1,0 +1,356 @@
+[
+  {
+    "type": "WordBoundary",
+    "offset": 1015410,
+    "duration": 2706250,
+    "text": "One"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 3850410,
+    "duration": 4897080,
+    "text": "sufficient"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 8876250,
+    "duration": 2706250,
+    "text": "route"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 11711250,
+    "duration": 1288750,
+    "text": "is"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 13128750,
+    "duration": 5154580,
+    "text": "universal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 18412500,
+    "duration": 5412500,
+    "text": "descent"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 26144160,
+    "duration": 2577500,
+    "text": "every"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 28850410,
+    "duration": 2319580,
+    "text": "odd"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 31299160,
+    "duration": 2963750,
+    "text": "start"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 34391660,
+    "duration": 3479580,
+    "text": "greater"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 38000000,
+    "duration": 1675410,
+    "text": "than"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 39804160,
+    "duration": 2319580,
+    "text": "one"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 42252500,
+    "duration": 2706250,
+    "text": "must"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 45087500,
+    "duration": 5025830,
+    "text": "eventually"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 50242080,
+    "duration": 2577500,
+    "text": "fall"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 52948330,
+    "duration": 2835000,
+    "text": "below"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 55912500,
+    "duration": 6443330,
+    "text": "itself"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 71262910,
+    "duration": 1546250,
+    "text": "We"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 72938330,
+    "duration": 1288750,
+    "text": "have"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 74355830,
+    "duration": 2190830,
+    "text": "not"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 76675410,
+    "duration": 2706250,
+    "text": "proved"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 79510410,
+    "duration": 2061660,
+    "text": "that"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 81700830,
+    "duration": 6572080,
+    "text": "statement"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 97165000,
+    "duration": 1804160,
+    "text": "We"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 99097910,
+    "duration": 1160000,
+    "text": "are"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 100386660,
+    "duration": 3479580,
+    "text": "Khamit"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 103995000,
+    "duration": 6700830,
+    "text": "Kadyrbekov"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 110824580,
+    "duration": 902080,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 111855830,
+    "duration": 1288750,
+    "text": "his"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 113273330,
+    "duration": 3995000,
+    "text": "son"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 119072080,
+    "duration": 4510410,
+    "text": "Daniyal"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 123711250,
+    "duration": 8891660,
+    "text": "Kadirbekov"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 141495000,
+    "duration": 1675410,
+    "text": "We"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 143298750,
+    "duration": 1160000,
+    "text": "have"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 144587500,
+    "duration": 1804160,
+    "text": "been"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 146520410,
+    "duration": 3865830,
+    "text": "working"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 150515410,
+    "duration": 1030830,
+    "text": "on"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 151675410,
+    "duration": 1804160,
+    "text": "this"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 153608330,
+    "duration": 5670000,
+    "text": "project"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 159407080,
+    "duration": 1546250,
+    "text": "for"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 161082500,
+    "duration": 3608330,
+    "text": "several"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 164819580,
+    "duration": 3995000,
+    "text": "months"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 168943330,
+    "duration": 1546250,
+    "text": "with"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 170618330,
+    "duration": 5799160,
+    "text": "artificial"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 176546250,
+    "duration": 6185410,
+    "text": "intelligence"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 182860830,
+    "duration": 8118750,
+    "text": "assistance"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 199871250,
+    "duration": 4767910,
+    "text": "Explore"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 204767910,
+    "duration": 902080,
+    "text": "the"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 205798750,
+    "duration": 3221660,
+    "text": "map"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 209149580,
+    "duration": 1288750,
+    "text": "and"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 210567080,
+    "duration": 1546250,
+    "text": "leave"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 212242080,
+    "duration": 644160,
+    "text": "a"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 213015410,
+    "duration": 5283330,
+    "text": "specific"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 218427910,
+    "duration": 6185410,
+    "text": "correction"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 226417500,
+    "duration": 3350410,
+    "text": "missing"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 229897080,
+    "duration": 6572080,
+    "text": "assumption"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 238144160,
+    "duration": 1417500,
+    "text": "or"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 239690830,
+    "duration": 4252500,
+    "text": "relevant"
+  },
+  {
+    "type": "WordBoundary",
+    "offset": 244072080,
+    "duration": 6056660,
+    "text": "source"
+  }
+]
