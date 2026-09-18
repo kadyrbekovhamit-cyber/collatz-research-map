@@ -9,6 +9,8 @@ Snapshot: 16 September 2026. AI assistance is disclosed in the source notes.
 ## Colour tour — 18 September 2026
 
 [Explore the new colour map and rotating narrated video](https://kadyrbekovhamit-cyber.github.io/collatz-research-map/tour/).
+[Watch the new 2:54 video on YouTube](https://youtu.be/19e0uRC3lgE) · [New LinkedIn post](https://www.linkedin.com/feed/update/urn:li:share:7506584561888333824/) · [Review thread](https://github.com/kadyrbekovhamit-cyber/collatz-research-map/issues/1).
+
 Khamit Kadyrbekov and his son Daniyal Kadirbekov have worked for several months with AI assistance. Blue highlights internally checked work within its stated assumptions; cyan selected published references; amber open obligations; coral a documented correction. Colours do not measure confidence, novelty, external review or percentage solved.
 
 This is a new presentation of the original 16 September snapshot, not a new mathematical result. The original map, archive and video below are preserved. Production sources are in [production/colour-tour-2026-09-18](production/colour-tour-2026-09-18/).
