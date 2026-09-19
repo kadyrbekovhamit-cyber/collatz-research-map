@@ -1,0 +1,253 @@
+WEBVTT
+
+1
+00:00:00.435 --> 00:00:03.373
+Here is a puzzle you can start solving in ten seconds.
+
+2
+00:00:04.264 --> 00:00:05.140
+Choose six.
+
+3
+00:00:06.029 --> 00:00:08.413
+If the number is even, divide it by two.
+
+4
+00:00:09.302 --> 00:00:12.099
+If it is odd, multiply by three and add one.
+
+5
+00:00:12.988 --> 00:00:14.264
+Six becomes three.
+
+6
+00:00:15.153 --> 00:00:16.222
+What comes next?
+
+7
+00:00:19.685 --> 00:00:20.162
+Ten!
+
+8
+00:00:21.052 --> 00:00:25.176
+Then five, sixteen, eight, four, two, one.
+
+9
+00:00:26.065 --> 00:00:27.818
+You have checked one starting number.
+
+10
+00:00:28.707 --> 00:00:32.289
+The Collatz conjecture says that every positive whole number eventually
+
+11
+00:00:32.302 --> 00:00:33.127
+reaches one.
+
+12
+00:00:34.016 --> 00:00:36.014
+Try seven yourself after the video.
+
+13
+00:00:36.903 --> 00:00:38.166
+The rules stay simple.
+
+14
+00:00:39.055 --> 00:00:41.439
+The journey can get surprisingly complicated.
+
+15
+00:00:43.352 --> 00:00:46.290
+Imagine testing an enormous crowd of starting numbers.
+
+16
+00:00:47.180 --> 00:00:48.482
+Every one comes home.
+
+17
+00:00:49.371 --> 00:00:52.335
+That still leaves infinitely many untested starts.
+
+18
+00:00:53.224 --> 00:00:56.716
+A proof must exclude both an endless escape and a different cycle.
+
+19
+00:00:57.606 --> 00:01:00.776
+One stubborn exception would be enough to defeat the conjecture.
+
+20
+00:01:02.685 --> 00:01:04.579
+Now step inside our research map.
+
+21
+00:01:05.470 --> 00:01:09.271
+These twisting ribbons borrow the visual language of protein diagrams.
+
+22
+00:01:10.161 --> 00:01:13.911
+Their shape helps us explore ideas; it predicts no solution.
+
+23
+00:01:14.800 --> 00:01:18.833
+Turn the structure, select an argument, and follow its connections.
+
+24
+00:01:19.722 --> 00:01:21.733
+Color tells you whose work you are reading.
+
+25
+00:01:22.622 --> 00:01:24.439
+Empty nodes mark open steps.
+
+26
+00:01:26.352 --> 00:01:28.439
+The green branch follows Terence Tao.
+
+27
+00:01:29.330 --> 00:01:33.363
+His theorem says that almost all starts reach values below any bound that
+
+28
+00:01:33.376 --> 00:01:35.644
+grows to infinity, however slowly.
+
+29
+00:01:36.534 --> 00:01:40.283
+Here, almost all has a precise meaning: logarithmic density.
+
+30
+00:01:41.173 --> 00:01:42.590
+This is a major result.
+
+31
+00:01:43.479 --> 00:01:47.397
+But exceptional starts remain possible, and the theorem does not say that
+
+32
+00:01:47.410 --> 00:01:48.840
+every path reaches one.
+
+33
+00:01:50.768 --> 00:01:53.023
+The red branch credits other researchers.
+
+34
+00:01:53.914 --> 00:01:55.203
+Riho Terras and C.
+
+35
+00:01:55.216 --> 00:01:55.512
+J.
+
+36
+00:01:55.525 --> 00:01:59.133
+Everett established almost-everywhere descent below the starting number.
+
+37
+00:02:00.022 --> 00:02:03.643
+Bernstein and Lagarias developed a precise two-adic description of the
+
+38
+00:02:03.656 --> 00:02:04.455
+dynamics.
+
+39
+00:02:05.344 --> 00:02:08.012
+These are different tools for different parts of the problem.
+
+40
+00:02:08.901 --> 00:02:11.698
+This selection is only a small part of the literature.
+
+41
+00:02:13.685 --> 00:02:18.724
+Blue opens our working archive: exact identities, restricted lemmas, audits,
+
+42
+00:02:18.891 --> 00:02:19.974
+and failed routes.
+
+43
+00:02:20.864 --> 00:02:24.769
+Khamit Kadyrbekov and Daniyal Kadirbekov organize this project with AI
+
+44
+00:02:24.782 --> 00:02:25.581
+assistance.
+
+45
+00:02:26.470 --> 00:02:30.052
+The new weighted-fiber drafts isolate a residual part that still needs
+
+46
+00:02:30.065 --> 00:02:30.710
+control.
+
+47
+00:02:31.599 --> 00:02:35.465
+Blue means a project record, not a claim that every ingredient is new.
+
+48
+00:02:36.354 --> 00:02:38.828
+Internal checks are not external peer review.
+
+49
+00:02:40.768 --> 00:02:42.727
+Here is one way a proof could finish.
+
+50
+00:02:43.618 --> 00:02:47.252
+Show that every odd starting number greater than one eventually falls below
+
+51
+00:02:47.265 --> 00:02:47.909
+itself.
+
+52
+00:02:48.798 --> 00:02:51.582
+Strong induction would then carry every start to one.
+
+53
+00:02:52.471 --> 00:02:54.662
+We do not yet have that universal step.
+
+54
+00:02:55.551 --> 00:02:59.262
+A large archive does not tell us what percentage is solved, or when the
+
+55
+00:02:59.275 --> 00:03:00.757
+missing idea will arrive.
+
+56
+00:03:02.685 --> 00:03:07.247
+This is the Ingenium approach: begin with a small example, make a prediction,
+
+57
+00:03:07.414 --> 00:03:10.571
+test your reasoning, then find the real research question.
+
+58
+00:03:11.462 --> 00:03:13.202
+Open the map from the description.
+
+59
+00:03:14.091 --> 00:03:14.877
+Rotate it.
+
+60
+00:03:15.766 --> 00:03:16.746
+Enter a branch.
+
+61
+00:03:17.635 --> 00:03:19.078
+Read an original source.
+
+62
+00:03:19.967 --> 00:03:23.975
+Then ask: exactly which missing statement would connect this argument to a
+
+63
+00:03:23.988 --> 00:03:25.302
+proof for every number?

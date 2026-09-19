@@ -55,3 +55,10 @@ Live map: https://www.gero.uz/research/collatz-map/
 
 [Download the full map, video and original report/source selection](collatz-research-map-and-video-2026-09-16.zip). The archive preserves the source directories.
 
+
+
+## Ribbon atlas and Ingenium tour — 19 September 2026
+
+[Enter the interactive ribbon atlas](https://kadyrbekovhamit-cyber.github.io/collatz-research-map/molecule/) · [Watch the narrated tour](https://kadyrbekovhamit-cyber.github.io/collatz-research-map/molecule/tour.html) · [Zenodo2.0.0](https://zenodo.org/records/22842974)
+
+628 displayed nodes (618 registered records,8 selected literature entries,2 unregistered drafts). Tao green, project records blue, other authors red; open obligations hollow. Original3:27 English tour in the Ingenium approach, with English/Russian captions. Full Collatz remains unproved. Shape and size are illustrative, not mathematical distance or percentage solved. Earlier releases are preserved.
